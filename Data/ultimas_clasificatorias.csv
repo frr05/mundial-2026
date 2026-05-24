@@ -1,0 +1,1002 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2022-01-27,Jamaica,Mexico,1.0,2.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-01-27,United States,El Salvador,1.0,0.0,FIFA World Cup qualification,Columbus,United States,False
+2022-01-27,Honduras,Canada,0.0,2.0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2022-01-27,Costa Rica,Panama,1.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False
+2022-01-27,Lebanon,South Korea,0.0,1.0,FIFA World Cup qualification,Sidon,Lebanon,False
+2022-01-27,Iran,Iraq,1.0,0.0,FIFA World Cup qualification,Tehran,Iran,False
+2022-01-27,United Arab Emirates,Syria,2.0,0.0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2022-01-27,Japan,China PR,2.0,0.0,FIFA World Cup qualification,Saitama,Japan,False
+2022-01-27,Australia,Vietnam,4.0,0.0,FIFA World Cup qualification,Melbourne,Australia,False
+2022-01-27,Saudi Arabia,Oman,1.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2022-01-27,Ecuador,Brazil,1.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False
+2022-01-27,Paraguay,Uruguay,0.0,1.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2022-01-27,Chile,Argentina,1.0,2.0,FIFA World Cup qualification,Calama,Chile,False
+2022-01-28,Colombia,Peru,0.0,1.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2022-01-28,Venezuela,Bolivia,4.0,1.0,FIFA World Cup qualification,Barinas,Venezuela,False
+2022-01-30,Canada,United States,2.0,0.0,FIFA World Cup qualification,Hamilton,Canada,False
+2022-01-30,Mexico,Costa Rica,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False
+2022-01-30,Panama,Jamaica,3.0,2.0,FIFA World Cup qualification,Panama City,Panama,False
+2022-01-30,Honduras,El Salvador,0.0,2.0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2022-02-01,Lebanon,Iraq,1.0,1.0,FIFA World Cup qualification,Sidon,Lebanon,False
+2022-02-01,Iran,United Arab Emirates,1.0,0.0,FIFA World Cup qualification,Tehran,Iran,False
+2022-02-01,Syria,South Korea,0.0,2.0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2022-02-01,Vietnam,China PR,3.0,1.0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2022-02-01,Japan,Saudi Arabia,2.0,0.0,FIFA World Cup qualification,Saitama,Japan,False
+2022-02-01,Oman,Australia,2.0,2.0,FIFA World Cup qualification,Muscat,Oman,False
+2022-02-01,Bolivia,Chile,2.0,3.0,FIFA World Cup qualification,La Paz,Bolivia,False
+2022-02-01,Uruguay,Venezuela,4.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2022-02-01,Argentina,Colombia,1.0,0.0,FIFA World Cup qualification,Córdoba,Argentina,False
+2022-02-01,Peru,Ecuador,1.0,1.0,FIFA World Cup qualification,Lima,Peru,False
+2022-02-01,Brazil,Paraguay,4.0,0.0,FIFA World Cup qualification,Belo Horizonte,Brazil,False
+2022-02-02,United States,Honduras,3.0,0.0,FIFA World Cup qualification,Saint Paul,United States,False
+2022-02-02,Jamaica,Costa Rica,0.0,1.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-02-02,El Salvador,Canada,0.0,2.0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2022-02-02,Mexico,Panama,1.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False
+2022-03-17,Cook Islands,Solomon Islands,0.0,2.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-18,Papua New Guinea,New Zealand,0.0,1.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-18,New Caledonia,Fiji,1.0,2.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-21,Papua New Guinea,New Caledonia,1.0,0.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-21,New Zealand,Fiji,4.0,0.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-24,Jamaica,El Salvador,1.0,1.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-03-24,Mexico,United States,0.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False
+2022-03-24,Panama,Honduras,1.0,1.0,FIFA World Cup qualification,Panama City,Panama,False
+2022-03-24,Costa Rica,Canada,1.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False
+2022-03-24,Lebanon,Syria,0.0,3.0,FIFA World Cup qualification,Sidon,Lebanon,False
+2022-03-24,Iraq,United Arab Emirates,1.0,0.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+2022-03-24,South Korea,Iran,2.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False
+2022-03-24,China PR,Saudi Arabia,1.0,1.0,FIFA World Cup qualification,Sharjah,United Arab Emirates,True
+2022-03-24,Vietnam,Oman,0.0,1.0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2022-03-24,Australia,Japan,0.0,2.0,FIFA World Cup qualification,Sydney,Australia,False
+2022-03-24,Solomon Islands,Tahiti,3.0,1.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-24,Fiji,Papua New Guinea,1.0,2.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-24,New Zealand,New Caledonia,7.0,1.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-24,Colombia,Bolivia,3.0,0.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2022-03-24,Brazil,Chile,4.0,0.0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2022-03-24,Paraguay,Ecuador,3.0,1.0,FIFA World Cup qualification,Ciudad del Este,Paraguay,False
+2022-03-24,Uruguay,Peru,1.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2022-03-24,Italy,North Macedonia,0.0,1.0,FIFA World Cup qualification,Palermo,Italy,False
+2022-03-24,Portugal,Turkey,3.0,1.0,FIFA World Cup qualification,Porto,Portugal,False
+2022-03-24,Sweden,Czech Republic,1.0,0.0,FIFA World Cup qualification,Stockholm,Sweden,False
+2022-03-24,Wales,Austria,2.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False
+2022-03-25,Cameroon,Algeria,0.0,1.0,FIFA World Cup qualification,Douala,Cameroon,False
+2022-03-25,DR Congo,Morocco,1.0,1.0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2022-03-25,Egypt,Senegal,1.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False
+2022-03-25,Ghana,Nigeria,0.0,0.0,FIFA World Cup qualification,Kumasi,Ghana,False
+2022-03-25,Mali,Tunisia,0.0,1.0,FIFA World Cup qualification,Bamako,Mali,False
+2022-03-25,Argentina,Venezuela,3.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2022-03-27,El Salvador,Costa Rica,1.0,2.0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2022-03-27,Canada,Jamaica,4.0,0.0,FIFA World Cup qualification,Toronto,Canada,False
+2022-03-27,Honduras,Mexico,0.0,1.0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2022-03-27,United States,Panama,5.0,1.0,FIFA World Cup qualification,Orlando,United States,False
+2022-03-27,New Zealand,Tahiti,1.0,0.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-27,Solomon Islands,Papua New Guinea,3.0,2.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-03-29,Algeria,Cameroon,1.0,2.0,FIFA World Cup qualification,Blida,Algeria,False
+2022-03-29,Morocco,DR Congo,4.0,1.0,FIFA World Cup qualification,Casablanca,Morocco,False
+2022-03-29,Nigeria,Ghana,1.0,1.0,FIFA World Cup qualification,Abuja,Nigeria,False
+2022-03-29,Senegal,Egypt,1.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,False
+2022-03-29,Tunisia,Mali,0.0,0.0,FIFA World Cup qualification,Tunis,Tunisia,False
+2022-03-29,Iran,Lebanon,2.0,0.0,FIFA World Cup qualification,Mashhad,Iran,False
+2022-03-29,Syria,Iraq,1.0,1.0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2022-03-29,United Arab Emirates,South Korea,1.0,0.0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2022-03-29,Japan,Vietnam,1.0,1.0,FIFA World Cup qualification,Saitama,Japan,False
+2022-03-29,Oman,China PR,2.0,0.0,FIFA World Cup qualification,Muscat,Oman,False
+2022-03-29,Saudi Arabia,Australia,1.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2022-03-29,Ecuador,Argentina,1.0,1.0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+2022-03-29,Peru,Paraguay,2.0,0.0,FIFA World Cup qualification,Lima,Peru,False
+2022-03-29,Bolivia,Brazil,0.0,4.0,FIFA World Cup qualification,La Paz,Bolivia,False
+2022-03-29,Venezuela,Colombia,0.0,1.0,FIFA World Cup qualification,Guayana,Venezuela,False
+2022-03-29,Chile,Uruguay,0.0,2.0,FIFA World Cup qualification,Santiago,Chile,False
+2022-03-29,Poland,Sweden,2.0,0.0,FIFA World Cup qualification,Chorzów,Poland,False
+2022-03-29,Portugal,North Macedonia,2.0,0.0,FIFA World Cup qualification,Porto,Portugal,False
+2022-03-30,Mexico,El Salvador,2.0,0.0,FIFA World Cup qualification,Mexico City,Mexico,False
+2022-03-30,Costa Rica,United States,2.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False
+2022-03-30,Panama,Canada,1.0,0.0,FIFA World Cup qualification,Panama City,Panama,False
+2022-03-30,Jamaica,Honduras,2.0,1.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2022-03-30,Solomon Islands,New Zealand,0.0,5.0,FIFA World Cup qualification,Doha,Qatar,True
+2022-06-01,Scotland,Ukraine,1.0,3.0,FIFA World Cup qualification,Glasgow,Scotland,False
+2022-06-05,Wales,Ukraine,1.0,0.0,FIFA World Cup qualification,Cardiff,Wales,False
+2022-06-07,United Arab Emirates,Australia,1.0,2.0,FIFA World Cup qualification,Al Rayyan,Qatar,True
+2022-06-13,Australia,Peru,0.0,0.0,FIFA World Cup qualification,Al Rayyan,Qatar,True
+2022-06-14,Costa Rica,New Zealand,1.0,0.0,FIFA World Cup qualification,Al Rayyan,Qatar,True
+2023-09-07,Colombia,Venezuela,1.0,0.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2023-09-07,Paraguay,Peru,0.0,0.0,FIFA World Cup qualification,Ciudad del Este,Paraguay,False
+2023-09-07,Argentina,Ecuador,1.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2023-09-08,Uruguay,Chile,3.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2023-09-08,Brazil,Bolivia,5.0,1.0,FIFA World Cup qualification,Belém,Brazil,False
+2023-09-12,Bolivia,Argentina,0.0,3.0,FIFA World Cup qualification,La Paz,Bolivia,False
+2023-09-12,Ecuador,Uruguay,2.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False
+2023-09-12,Venezuela,Paraguay,1.0,0.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2023-09-12,Peru,Brazil,0.0,1.0,FIFA World Cup qualification,Lima,Peru,False
+2023-09-12,Chile,Colombia,0.0,0.0,FIFA World Cup qualification,Santiago,Chile,False
+2023-10-12,Colombia,Uruguay,2.0,2.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2023-10-12,Bolivia,Ecuador,1.0,2.0,FIFA World Cup qualification,La Paz,Bolivia,False
+2023-10-12,Argentina,Paraguay,1.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2023-10-12,Brazil,Venezuela,1.0,1.0,FIFA World Cup qualification,Cuiabá,Brazil,False
+2023-10-12,Chile,Peru,2.0,0.0,FIFA World Cup qualification,Santiago,Chile,False
+2023-10-12,Afghanistan,Mongolia,1.0,0.0,FIFA World Cup qualification,Dushanbe,Tajikistan,True
+2023-10-12,Cambodia,Pakistan,0.0,0.0,FIFA World Cup qualification,Phnom Penh,Cambodia,False
+2023-10-12,Taiwan,Timor-Leste,4.0,0.0,FIFA World Cup qualification,Kaohsiung,Taiwan,False
+2023-10-12,Hong Kong,Bhutan,4.0,0.0,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2023-10-12,Indonesia,Brunei,6.0,0.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2023-10-12,Maldives,Bangladesh,1.0,1.0,FIFA World Cup qualification,Malé,Maldives,False
+2023-10-12,Myanmar,Macau,5.0,1.0,FIFA World Cup qualification,Yangon,Myanmar,False
+2023-10-12,Nepal,Laos,1.0,1.0,FIFA World Cup qualification,Kathmandu,Nepal,False
+2023-10-12,Singapore,Guam,2.0,1.0,FIFA World Cup qualification,Kallang,Singapore,False
+2023-10-12,Yemen,Sri Lanka,3.0,0.0,FIFA World Cup qualification,Abha,Saudi Arabia,True
+2023-10-17,Venezuela,Chile,3.0,0.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2023-10-17,Ecuador,Colombia,0.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False
+2023-10-17,Paraguay,Bolivia,1.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2023-10-17,Peru,Argentina,0.0,2.0,FIFA World Cup qualification,Lima,Peru,False
+2023-10-17,Uruguay,Brazil,2.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2023-10-17,Bangladesh,Maldives,2.0,1.0,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2023-10-17,Bhutan,Hong Kong,2.0,0.0,FIFA World Cup qualification,Thimphu,Bhutan,False
+2023-10-17,Brunei,Indonesia,0.0,6.0,FIFA World Cup qualification,Bandar Seri Begawan,Brunei,False
+2023-10-17,Guam,Singapore,0.0,1.0,FIFA World Cup qualification,Dededo,Guam,False
+2023-10-17,Laos,Nepal,0.0,1.0,FIFA World Cup qualification,Vientiane,Laos,False
+2023-10-17,Macau,Myanmar,0.0,0.0,FIFA World Cup qualification,Taipa,Macau,False
+2023-10-17,Mongolia,Afghanistan,0.0,1.0,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2023-10-17,Pakistan,Cambodia,1.0,0.0,FIFA World Cup qualification,Islamabad,Pakistan,False
+2023-10-17,Sri Lanka,Yemen,1.0,1.0,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2023-10-17,Taiwan,Timor-Leste,3.0,0.0,FIFA World Cup qualification,Kaohsiung,Taiwan,False
+2023-11-15,Ethiopia,Sierra Leone,0.0,0.0,FIFA World Cup qualification,El Jadida,Morocco,True
+2023-11-15,DR Congo,Mauritania,2.0,0.0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2023-11-15,Rwanda,Zimbabwe,0.0,0.0,FIFA World Cup qualification,Butare,Rwanda,False
+2023-11-15,Equatorial Guinea,Namibia,0.0,3.0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2023-11-16,Bolivia,Peru,2.0,0.0,FIFA World Cup qualification,La Paz,Bolivia,False
+2023-11-16,Venezuela,Ecuador,0.0,0.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2023-11-16,Colombia,Brazil,2.0,1.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2023-11-16,Argentina,Uruguay,0.0,2.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2023-11-16,Chile,Paraguay,0.0,0.0,FIFA World Cup qualification,Santiago,Chile,False
+2023-11-16,Qatar,Afghanistan,8.0,1.0,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2023-11-16,Kuwait,India,0.0,1.0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2023-11-16,Japan,Myanmar,5.0,0.0,FIFA World Cup qualification,Suita,Japan,False
+2023-11-16,Syria,North Korea,1.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,True
+2023-11-16,Thailand,China PR,1.0,2.0,FIFA World Cup qualification,Bangkok,Thailand,False
+2023-11-16,South Korea,Singapore,5.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False
+2023-11-16,Oman,Taiwan,3.0,0.0,FIFA World Cup qualification,Muscat,Oman,False
+2023-11-16,Malaysia,Kyrgyzstan,4.0,3.0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2023-11-16,Iran,Hong Kong,4.0,0.0,FIFA World Cup qualification,Tehran,Iran,False
+2023-11-16,Turkmenistan,Uzbekistan,1.0,3.0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2023-11-16,Iraq,Indonesia,5.0,1.0,FIFA World Cup qualification,Basra,Iraq,False
+2023-11-16,Philippines,Vietnam,0.0,2.0,FIFA World Cup qualification,Manila,Philippines,False
+2023-11-16,Tajikistan,Jordan,1.0,1.0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2023-11-16,Saudi Arabia,Pakistan,4.0,0.0,FIFA World Cup qualification,Al Hofuf,Saudi Arabia,False
+2023-11-16,United Arab Emirates,Nepal,4.0,0.0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2023-11-16,Yemen,Bahrain,0.0,2.0,FIFA World Cup qualification,Abha,Saudi Arabia,True
+2023-11-16,Lebanon,Palestine,0.0,0.0,FIFA World Cup qualification,Sharjah,United Arab Emirates,True
+2023-11-16,Australia,Bangladesh,7.0,0.0,FIFA World Cup qualification,Melbourne,Australia,False
+2023-11-16,Egypt,Djibouti,6.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False
+2023-11-16,Sudan,Togo,1.0,1.0,FIFA World Cup qualification,Benghazi,Libya,True
+2023-11-16,Nigeria,Lesotho,1.0,1.0,FIFA World Cup qualification,Uyo,Nigeria,False
+2023-11-16,Cape Verde,Angola,0.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False
+2023-11-16,Burundi,Gambia,3.0,2.0,FIFA World Cup qualification,Dar es Salaam,Tanzania,True
+2023-11-16,Gabon,Kenya,2.0,1.0,FIFA World Cup qualification,Franceville,Gabon,False
+2023-11-16,Botswana,Mozambique,2.0,3.0,FIFA World Cup qualification,Francistown,Botswana,False
+2023-11-16,Algeria,Somalia,3.0,1.0,FIFA World Cup qualification,Algiers,Algeria,False
+2023-11-17,Burkina Faso,Guinea-Bissau,1.0,1.0,FIFA World Cup qualification,Marrakech,Morocco,True
+2023-11-17,Eswatini,Libya,0.0,1.0,FIFA World Cup qualification,Mbombela,South Africa,True
+2023-11-17,Cameroon,Mauritius,3.0,0.0,FIFA World Cup qualification,Douala,Cameroon,False
+2023-11-17,Zambia,Congo,4.0,2.0,FIFA World Cup qualification,Ndola,Zambia,False
+2023-11-17,Ivory Coast,Seychelles,9.0,0.0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2023-11-17,Guinea,Uganda,2.0,1.0,FIFA World Cup qualification,Berkane,Morocco,True
+2023-11-17,Liberia,Malawi,0.0,1.0,FIFA World Cup qualification,Monrovia,Liberia,False
+2023-11-17,Tunisia,São Tomé and Príncipe,4.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False
+2023-11-17,Comoros,Central African Republic,4.0,2.0,FIFA World Cup qualification,Moroni,Comoros,False
+2023-11-17,Ghana,Madagascar,1.0,0.0,FIFA World Cup qualification,Kumasi,Ghana,False
+2023-11-17,Mali,Chad,3.0,1.0,FIFA World Cup qualification,Bamako,Mali,False
+2023-11-18,Senegal,South Sudan,4.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,False
+2023-11-18,South Africa,Benin,2.0,1.0,FIFA World Cup qualification,Durban,South Africa,False
+2023-11-18,Niger,Tanzania,0.0,1.0,FIFA World Cup qualification,Marrakech,Morocco,True
+2023-11-19,Sierra Leone,Egypt,0.0,2.0,FIFA World Cup qualification,Monrovia,Liberia,True
+2023-11-19,Sudan,DR Congo,1.0,0.0,FIFA World Cup qualification,Benghazi,Libya,True
+2023-11-19,Zimbabwe,Nigeria,1.0,1.0,FIFA World Cup qualification,Butare,Rwanda,True
+2023-11-19,Burundi,Gabon,1.0,2.0,FIFA World Cup qualification,Dar es Salaam,Tanzania,True
+2023-11-19,Mozambique,Algeria,0.0,2.0,FIFA World Cup qualification,Maputo,Mozambique,False
+2023-11-20,Djibouti,Guinea-Bissau,0.0,1.0,FIFA World Cup qualification,Cairo,Egypt,True
+2023-11-20,Gambia,Ivory Coast,0.0,2.0,FIFA World Cup qualification,Dar es Salaam,Tanzania,True
+2023-11-20,Seychelles,Kenya,0.0,5.0,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+2023-11-20,Liberia,Equatorial Guinea,3.0,0.0,FIFA World Cup qualification,Monrovia,Liberia,False
+2023-11-20,Mali,Central African Republic,1.0,1.0,FIFA World Cup qualification,Bamako,Mali,False
+2023-11-20,Chad,Madagascar,0.0,3.0,FIFA World Cup qualification,Oujda,Morocco,True
+2023-11-21,Ecuador,Chile,1.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False
+2023-11-21,Paraguay,Colombia,0.0,1.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2023-11-21,Uruguay,Bolivia,3.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2023-11-21,Peru,Venezuela,1.0,1.0,FIFA World Cup qualification,Lima,Peru,False
+2023-11-21,Brazil,Argentina,0.0,1.0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2023-11-21,India,Qatar,0.0,3.0,FIFA World Cup qualification,Bhubaneswar,India,False
+2023-11-21,Afghanistan,Kuwait,0.0,4.0,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2023-11-21,Myanmar,North Korea,1.0,6.0,FIFA World Cup qualification,Yangon,Myanmar,False
+2023-11-21,Syria,Japan,0.0,5.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,True
+2023-11-21,China PR,South Korea,0.0,3.0,FIFA World Cup qualification,Shenzhen,China PR,False
+2023-11-21,Singapore,Thailand,1.0,3.0,FIFA World Cup qualification,Kallang,Singapore,False
+2023-11-21,Taiwan,Malaysia,0.0,1.0,FIFA World Cup qualification,Taipei,Taiwan,False
+2023-11-21,Kyrgyzstan,Oman,1.0,0.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2023-11-21,Uzbekistan,Iran,2.0,2.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2023-11-21,Hong Kong,Turkmenistan,2.0,2.0,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2023-11-21,Philippines,Indonesia,1.0,1.0,FIFA World Cup qualification,Manila,Philippines,False
+2023-11-21,Vietnam,Iraq,0.0,1.0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2023-11-21,Pakistan,Tajikistan,1.0,6.0,FIFA World Cup qualification,Islamabad,Pakistan,False
+2023-11-21,Jordan,Saudi Arabia,0.0,2.0,FIFA World Cup qualification,Amman,Jordan,False
+2023-11-21,Bahrain,United Arab Emirates,0.0,2.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2023-11-21,Nepal,Yemen,0.0,2.0,FIFA World Cup qualification,Kathmandu,Nepal,False
+2023-11-21,Palestine,Australia,0.0,1.0,FIFA World Cup qualification,Kuwait City,Kuwait,True
+2023-11-21,Bangladesh,Lebanon,1.0,1.0,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2023-11-21,Ethiopia,Burkina Faso,0.0,3.0,FIFA World Cup qualification,El Jadida,Morocco,True
+2023-11-21,South Sudan,Mauritania,0.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,True
+2023-11-21,Togo,Senegal,0.0,0.0,FIFA World Cup qualification,Lomé,Togo,False
+2023-11-21,Lesotho,Benin,0.0,0.0,FIFA World Cup qualification,Durban,South Africa,True
+2023-11-21,Rwanda,South Africa,2.0,0.0,FIFA World Cup qualification,Butare,Rwanda,False
+2023-11-21,Eswatini,Cape Verde,0.0,2.0,FIFA World Cup qualification,Mbombela,South Africa,True
+2023-11-21,Libya,Cameroon,1.0,1.0,FIFA World Cup qualification,Benghazi,Libya,False
+2023-11-21,Mauritius,Angola,0.0,0.0,FIFA World Cup qualification,Saint Pierre,Mauritius,False
+2023-11-21,Niger,Zambia,2.0,1.0,FIFA World Cup qualification,Marrakech,Morocco,True
+2023-11-21,Tanzania,Morocco,0.0,2.0,FIFA World Cup qualification,Dar es Salaam,Tanzania,False
+2023-11-21,Somalia,Uganda,0.0,1.0,FIFA World Cup qualification,Berkane,Morocco,True
+2023-11-21,Botswana,Guinea,1.0,0.0,FIFA World Cup qualification,Francistown,Botswana,False
+2023-11-21,Malawi,Tunisia,0.0,1.0,FIFA World Cup qualification,Lilongwe,Malawi,False
+2023-11-21,São Tomé and Príncipe,Namibia,0.0,2.0,FIFA World Cup qualification,Agadir,Morocco,True
+2023-11-21,Comoros,Ghana,1.0,0.0,FIFA World Cup qualification,Moroni,Comoros,False
+2024-03-21,Qatar,Kuwait,3.0,0.0,FIFA World Cup qualification,Doha,Qatar,False
+2024-03-21,Afghanistan,India,0.0,0.0,FIFA World Cup qualification,Abha,Saudi Arabia,True
+2024-03-21,Myanmar,Syria,1.0,1.0,FIFA World Cup qualification,Yangon,Myanmar,False
+2024-03-21,Japan,North Korea,1.0,0.0,FIFA World Cup qualification,Tokyo,Japan,False
+2024-03-21,South Korea,Thailand,1.0,1.0,FIFA World Cup qualification,Seoul,South Korea,False
+2024-03-21,Singapore,China PR,2.0,2.0,FIFA World Cup qualification,Kallang,Singapore,False
+2024-03-21,Taiwan,Kyrgyzstan,0.0,2.0,FIFA World Cup qualification,Taipei,Taiwan,False
+2024-03-21,Oman,Malaysia,2.0,0.0,FIFA World Cup qualification,Muscat,Oman,False
+2024-03-21,Iran,Turkmenistan,5.0,0.0,FIFA World Cup qualification,Tehran,Iran,False
+2024-03-21,Hong Kong,Uzbekistan,0.0,2.0,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2024-03-21,Indonesia,Vietnam,1.0,0.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-03-21,Iraq,Philippines,1.0,0.0,FIFA World Cup qualification,Basra,Iraq,False
+2024-03-21,Pakistan,Jordan,0.0,3.0,FIFA World Cup qualification,Islamabad,Pakistan,False
+2024-03-21,Saudi Arabia,Tajikistan,1.0,0.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2024-03-21,Bahrain,Nepal,5.0,0.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-03-21,United Arab Emirates,Yemen,2.0,1.0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2024-03-21,Australia,Lebanon,2.0,0.0,FIFA World Cup qualification,Sydney,Australia,False
+2024-03-21,Palestine,Bangladesh,5.0,0.0,FIFA World Cup qualification,Kuwait City,Kuwait,True
+2024-03-22,Anguilla,Turks and Caicos Islands,0.0,0.0,FIFA World Cup qualification,The Valley,Anguilla,False
+2024-03-22,United States Virgin Islands,British Virgin Islands,1.0,1.0,FIFA World Cup qualification,Saint Croix,United States Virgin Islands,False
+2024-03-26,India,Afghanistan,1.0,2.0,FIFA World Cup qualification,Guwahati,India,False
+2024-03-26,Kuwait,Qatar,1.0,2.0,FIFA World Cup qualification,Al Farwaniyah,Kuwait,False
+2024-03-26,Syria,Myanmar,7.0,0.0,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2024-03-26,Thailand,South Korea,0.0,3.0,FIFA World Cup qualification,Bangkok,Thailand,False
+2024-03-26,China PR,Singapore,4.0,1.0,FIFA World Cup qualification,Tianjin,China PR,False
+2024-03-26,Kyrgyzstan,Taiwan,5.0,1.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-03-26,Malaysia,Oman,0.0,2.0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2024-03-26,Uzbekistan,Hong Kong,3.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2024-03-26,Turkmenistan,Iran,0.0,1.0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2024-03-26,Philippines,Iraq,0.0,5.0,FIFA World Cup qualification,Manila,Philippines,False
+2024-03-26,Vietnam,Indonesia,0.0,3.0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2024-03-26,Tajikistan,Saudi Arabia,1.0,1.0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2024-03-26,Jordan,Pakistan,7.0,0.0,FIFA World Cup qualification,Amman,Jordan,False
+2024-03-26,Bahrain,Nepal,3.0,0.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-03-26,Yemen,United Arab Emirates,0.0,3.0,FIFA World Cup qualification,Khobar,Saudi Arabia,True
+2024-03-26,Bangladesh,Palestine,0.0,1.0,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2024-03-26,Australia,Lebanon,5.0,0.0,FIFA World Cup qualification,Canberra,Australia,False
+2024-03-26,British Virgin Islands,United States Virgin Islands,0.0,0.0,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2024-03-26,Turks and Caicos Islands,Anguilla,1.0,1.0,FIFA World Cup qualification,Providenciales,Turks and Caicos Islands,False
+2024-06-05,Sierra Leone,Djibouti,2.0,1.0,FIFA World Cup qualification,El Jadida,Morocco,True
+2024-06-05,Togo,South Sudan,1.0,1.0,FIFA World Cup qualification,Lomé,Togo,False
+2024-06-05,Namibia,Liberia,1.0,1.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-05,Tunisia,Equatorial Guinea,1.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False
+2024-06-05,Central African Republic,Chad,1.0,0.0,FIFA World Cup qualification,Oujda,Morocco,True
+2024-06-05,Antigua and Barbuda,Bermuda,1.0,1.0,FIFA World Cup qualification,Piggotts,Antigua and Barbuda,False
+2024-06-05,Trinidad and Tobago,Grenada,2.0,2.0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2024-06-05,Curaçao,Barbados,4.0,1.0,FIFA World Cup qualification,Willemstad,Curaçao,False
+2024-06-05,Nicaragua,Montserrat,4.0,1.0,FIFA World Cup qualification,Managua,Nicaragua,False
+2024-06-05,Guatemala,Dominica,6.0,0.0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2024-06-05,Suriname,Saint Vincent and the Grenadines,4.0,1.0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2024-06-06,Guinea-Bissau,Ethiopia,0.0,0.0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2024-06-06,Egypt,Burkina Faso,2.0,1.0,FIFA World Cup qualification,Cairo,Egypt,False
+2024-06-06,Mauritania,Sudan,0.0,2.0,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2024-06-06,Senegal,DR Congo,1.0,1.0,FIFA World Cup qualification,Diamniadio,Senegal,False
+2024-06-06,Benin,Rwanda,1.0,0.0,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+2024-06-06,Libya,Mauritius,2.0,1.0,FIFA World Cup qualification,Benghazi,Libya,False
+2024-06-06,Algeria,Guinea,1.0,2.0,FIFA World Cup qualification,Algiers,Algeria,False
+2024-06-06,Malawi,São Tomé and Príncipe,3.0,1.0,FIFA World Cup qualification,Lilongwe,Malawi,False
+2024-06-06,Mali,Ghana,1.0,2.0,FIFA World Cup qualification,Bamako,Mali,False
+2024-06-06,Afghanistan,Qatar,0.0,0.0,FIFA World Cup qualification,Al Hofuf,Saudi Arabia,True
+2024-06-06,India,Kuwait,0.0,0.0,FIFA World Cup qualification,Kolkota,India,False
+2024-06-06,Myanmar,Japan,0.0,5.0,FIFA World Cup qualification,Yangon,Myanmar,False
+2024-06-06,North Korea,Syria,1.0,0.0,FIFA World Cup qualification,Vientiane,Laos,True
+2024-06-06,China PR,Thailand,1.0,1.0,FIFA World Cup qualification,Shenyang,China PR,False
+2024-06-06,Singapore,South Korea,0.0,7.0,FIFA World Cup qualification,Kallang,Singapore,False
+2024-06-06,Taiwan,Oman,0.0,3.0,FIFA World Cup qualification,Taipei,Taiwan,False
+2024-06-06,Kyrgyzstan,Malaysia,1.0,1.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-06-06,Uzbekistan,Turkmenistan,3.0,1.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2024-06-06,Hong Kong,Iran,2.0,4.0,FIFA World Cup qualification,Hong Kong,Hong Kong,False
+2024-06-06,Indonesia,Iraq,0.0,2.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-06-06,Vietnam,Philippines,3.0,2.0,FIFA World Cup qualification,Hanoi,Vietnam,False
+2024-06-06,Jordan,Tajikistan,3.0,0.0,FIFA World Cup qualification,Amman,Jordan,False
+2024-06-06,Pakistan,Saudi Arabia,0.0,3.0,FIFA World Cup qualification,Islamabad,Pakistan,False
+2024-06-06,Nepal,United Arab Emirates,0.0,4.0,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2024-06-06,Bahrain,Yemen,0.0,0.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-06-06,Bangladesh,Australia,0.0,2.0,FIFA World Cup qualification,Dhaka,Bangladesh,False
+2024-06-06,Palestine,Lebanon,0.0,0.0,FIFA World Cup qualification,Doha,Qatar,True
+2024-06-06,Honduras,Cuba,3.0,1.0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2024-06-06,Costa Rica,Saint Kitts and Nevis,4.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False
+2024-06-06,Haiti,Saint Lucia,2.0,1.0,FIFA World Cup qualification,Bridgetown,Barbados,True
+2024-06-06,Panama,Guyana,2.0,0.0,FIFA World Cup qualification,Panama City,Panama,False
+2024-06-06,Jamaica,Dominican Republic,1.0,0.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2024-06-06,El Salvador,Puerto Rico,0.0,0.0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2024-06-07,Zimbabwe,Lesotho,0.0,2.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-07,Nigeria,South Africa,1.0,1.0,FIFA World Cup qualification,Uyo,Nigeria,False
+2024-06-07,Angola,Eswatini,1.0,0.0,FIFA World Cup qualification,Luanda,Angola,False
+2024-06-07,Morocco,Zambia,2.0,1.0,FIFA World Cup qualification,Agadir,Morocco,False
+2024-06-07,Kenya,Burundi,1.0,1.0,FIFA World Cup qualification,Lilongwe,Malawi,True
+2024-06-07,Ivory Coast,Gabon,1.0,0.0,FIFA World Cup qualification,Korhogo,Ivory Coast,False
+2024-06-07,Mozambique,Somalia,2.0,1.0,FIFA World Cup qualification,Maputo,Mozambique,False
+2024-06-07,Uganda,Botswana,1.0,0.0,FIFA World Cup qualification,Kira,Uganda,False
+2024-06-07,Madagascar,Comoros,2.0,1.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-08,Cameroon,Cape Verde,4.0,1.0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2024-06-08,Gambia,Seychelles,5.0,1.0,FIFA World Cup qualification,Berkane,Morocco,True
+2024-06-08,Cayman Islands,Antigua and Barbuda,1.0,0.0,FIFA World Cup qualification,George Town,Cayman Islands,False
+2024-06-08,Bahamas,Trinidad and Tobago,1.0,7.0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,True
+2024-06-08,Aruba,Curaçao,0.0,2.0,FIFA World Cup qualification,Oranjestad,Aruba,False
+2024-06-08,Belize,Nicaragua,0.0,4.0,FIFA World Cup qualification,Belmopan,Belize,False
+2024-06-08,British Virgin Islands,Guatemala,0.0,3.0,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2024-06-08,Anguilla,Suriname,0.0,4.0,FIFA World Cup qualification,The Valley,Anguilla,False
+2024-06-09,Djibouti,Ethiopia,1.0,1.0,FIFA World Cup qualification,El Jadida,Morocco,True
+2024-06-09,Mauritania,Senegal,0.0,1.0,FIFA World Cup qualification,Nouakchott,Mauritania,False
+2024-06-09,DR Congo,Togo,1.0,0.0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2024-06-09,São Tomé and Príncipe,Liberia,0.0,1.0,FIFA World Cup qualification,Oujda,Morocco,True
+2024-06-09,Namibia,Tunisia,0.0,0.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-09,Bermuda,Honduras,1.0,6.0,FIFA World Cup qualification,Hamilton,Bermuda,False
+2024-06-09,Grenada,Costa Rica,0.0,3.0,FIFA World Cup qualification,St. George's,Grenada,False
+2024-06-09,Barbados,Haiti,1.0,3.0,FIFA World Cup qualification,Bridgetown,Barbados,False
+2024-06-09,Montserrat,Panama,1.0,3.0,FIFA World Cup qualification,Managua,Nicaragua,True
+2024-06-09,Dominica,Jamaica,2.0,3.0,FIFA World Cup qualification,Roseau,Dominica,False
+2024-06-09,Saint Vincent and the Grenadines,El Salvador,1.0,3.0,FIFA World Cup qualification,Paramaribo,Suriname,True
+2024-06-10,Guinea-Bissau,Egypt,1.0,1.0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2024-06-10,Burkina Faso,Sierra Leone,2.0,2.0,FIFA World Cup qualification,Bamako,Mali,True
+2024-06-10,Benin,Nigeria,2.0,1.0,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+2024-06-10,Somalia,Botswana,1.0,3.0,FIFA World Cup qualification,Maputo,Mozambique,True
+2024-06-10,Uganda,Algeria,1.0,2.0,FIFA World Cup qualification,Kira,Uganda,False
+2024-06-10,Guinea,Mozambique,0.0,1.0,FIFA World Cup qualification,El Jadida,Morocco,True
+2024-06-10,Equatorial Guinea,Malawi,1.0,0.0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2024-06-10,Ghana,Central African Republic,4.0,3.0,FIFA World Cup qualification,Kumasi,Ghana,False
+2024-06-11,South Sudan,Sudan,0.0,3.0,FIFA World Cup qualification,Juba,South Sudan,False
+2024-06-11,Lesotho,Rwanda,0.0,1.0,FIFA World Cup qualification,Durban,South Africa,True
+2024-06-11,South Africa,Zimbabwe,3.0,1.0,FIFA World Cup qualification,Bloemfontein,South Africa,False
+2024-06-11,Cape Verde,Libya,1.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False
+2024-06-11,Mauritius,Eswatini,2.0,1.0,FIFA World Cup qualification,Saint Pierre,Mauritius,False
+2024-06-11,Angola,Cameroon,1.0,1.0,FIFA World Cup qualification,Luanda,Angola,False
+2024-06-11,Zambia,Tanzania,0.0,1.0,FIFA World Cup qualification,Ndola,Zambia,False
+2024-06-11,Morocco,Congo,6.0,0.0,FIFA World Cup qualification,Agadir,Morocco,False
+2024-06-11,Kenya,Ivory Coast,0.0,0.0,FIFA World Cup qualification,Lilongwe,Malawi,True
+2024-06-11,Gabon,Gambia,3.0,2.0,FIFA World Cup qualification,Franceville,Gabon,False
+2024-06-11,Seychelles,Burundi,1.0,3.0,FIFA World Cup qualification,Berkane,Morocco,True
+2024-06-11,Madagascar,Mali,0.0,0.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-11,Chad,Comoros,0.0,2.0,FIFA World Cup qualification,Oujda,Morocco,True
+2024-06-11,Kuwait,Afghanistan,1.0,0.0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2024-06-11,Qatar,India,2.0,1.0,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2024-06-11,Japan,Syria,5.0,0.0,FIFA World Cup qualification,Hiroshima,Japan,False
+2024-06-11,North Korea,Myanmar,4.0,1.0,FIFA World Cup qualification,Vientiane,Laos,True
+2024-06-11,Thailand,Singapore,3.0,1.0,FIFA World Cup qualification,Bangkok,Thailand,False
+2024-06-11,South Korea,China PR,1.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False
+2024-06-11,Oman,Kyrgyzstan,1.0,1.0,FIFA World Cup qualification,Muscat,Oman,False
+2024-06-11,Malaysia,Taiwan,3.0,1.0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2024-06-11,Turkmenistan,Hong Kong,0.0,0.0,FIFA World Cup qualification,Ashgabat,Turkmenistan,False
+2024-06-11,Iran,Uzbekistan,0.0,0.0,FIFA World Cup qualification,Tehran,Iran,False
+2024-06-11,Indonesia,Philippines,2.0,0.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-06-11,Iraq,Vietnam,3.0,1.0,FIFA World Cup qualification,Basra,Iraq,False
+2024-06-11,Tajikistan,Pakistan,3.0,0.0,FIFA World Cup qualification,Dushanbe,Tajikistan,False
+2024-06-11,Saudi Arabia,Jordan,1.0,2.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2024-06-11,United Arab Emirates,Bahrain,1.0,1.0,FIFA World Cup qualification,Dubai,United Arab Emirates,False
+2024-06-11,Yemen,Nepal,2.0,2.0,FIFA World Cup qualification,Dammam,Saudi Arabia,True
+2024-06-11,Lebanon,Bangladesh,4.0,0.0,FIFA World Cup qualification,Al Rayyan,Qatar,True
+2024-06-11,Australia,Palestine,5.0,0.0,FIFA World Cup qualification,Perth,Australia,False
+2024-06-11,Cuba,Cayman Islands,3.0,0.0,FIFA World Cup qualification,Santiago,Cuba,False
+2024-06-11,Saint Kitts and Nevis,Bahamas,1.0,0.0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2024-06-11,Saint Lucia,Aruba,2.0,2.0,FIFA World Cup qualification,Bridgetown,Barbados,True
+2024-06-11,Guyana,Belize,3.0,1.0,FIFA World Cup qualification,Bridgetown,Barbados,True
+2024-06-11,Dominican Republic,British Virgin Islands,4.0,0.0,FIFA World Cup qualification,San Cristóbal,Dominican Republic,False
+2024-06-11,Puerto Rico,Anguilla,8.0,0.0,FIFA World Cup qualification,Bayamón,Puerto Rico,False
+2024-09-05,Bolivia,Venezuela,4.0,0.0,FIFA World Cup qualification,El Alto,Bolivia,False
+2024-09-05,Argentina,Chile,3.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2024-09-05,Qatar,United Arab Emirates,1.0,3.0,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2024-09-05,Uzbekistan,North Korea,1.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2024-09-05,Iran,Kyrgyzstan,1.0,0.0,FIFA World Cup qualification,Fuladshahr,Iran,False
+2024-09-05,Iraq,Oman,1.0,0.0,FIFA World Cup qualification,Basra,Iraq,False
+2024-09-05,South Korea,Palestine,0.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False
+2024-09-05,Jordan,Kuwait,1.0,1.0,FIFA World Cup qualification,Amman,Jordan,False
+2024-09-05,Japan,China PR,7.0,0.0,FIFA World Cup qualification,Saitama,Japan,False
+2024-09-05,Australia,Bahrain,0.0,1.0,FIFA World Cup qualification,Robina,Australia,False
+2024-09-05,Saudi Arabia,Indonesia,1.0,1.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2024-09-06,Cook Islands,Tonga,1.0,3.0,FIFA World Cup qualification,Apia,Samoa,True
+2024-09-06,Samoa,American Samoa,2.0,0.0,FIFA World Cup qualification,Apia,Samoa,False
+2024-09-06,Peru,Colombia,1.0,1.0,FIFA World Cup qualification,Lima,Peru,False
+2024-09-06,Uruguay,Paraguay,0.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2024-09-06,Brazil,Ecuador,1.0,0.0,FIFA World Cup qualification,Curitiba,Brazil,False
+2024-09-09,Samoa,Tonga,2.0,1.0,FIFA World Cup qualification,Apia,Samoa,False
+2024-09-10,Colombia,Argentina,2.0,1.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2024-09-10,Ecuador,Peru,1.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False
+2024-09-10,Chile,Bolivia,1.0,2.0,FIFA World Cup qualification,Santiago,Chile,False
+2024-09-10,Venezuela,Uruguay,0.0,0.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2024-09-10,Paraguay,Brazil,1.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2024-09-10,North Korea,Qatar,2.0,2.0,FIFA World Cup qualification,Vientiane,Laos,True
+2024-09-10,Kyrgyzstan,Uzbekistan,2.0,3.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-09-10,United Arab Emirates,Iran,0.0,1.0,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2024-09-10,Oman,South Korea,1.0,3.0,FIFA World Cup qualification,Muscat,Oman,False
+2024-09-10,Kuwait,Iraq,0.0,0.0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2024-09-10,Palestine,Jordan,1.0,3.0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,True
+2024-09-10,Bahrain,Japan,0.0,5.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-09-10,Indonesia,Australia,0.0,0.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-09-10,China PR,Saudi Arabia,1.0,2.0,FIFA World Cup qualification,Dalian,China PR,False
+2024-10-10,Bolivia,Colombia,1.0,0.0,FIFA World Cup qualification,El Alto,Bolivia,False
+2024-10-10,Ecuador,Paraguay,0.0,0.0,FIFA World Cup qualification,Quito,Ecuador,False
+2024-10-10,Venezuela,Argentina,1.0,1.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2024-10-10,Chile,Brazil,1.0,2.0,FIFA World Cup qualification,Santiago,Chile,False
+2024-10-10,Papua New Guinea,New Caledonia,1.0,3.0,FIFA World Cup qualification,Suva,Fiji,True
+2024-10-10,Fiji,Solomon Islands,1.0,0.0,FIFA World Cup qualification,Suva,Fiji,False
+2024-10-10,Qatar,Kyrgyzstan,3.0,1.0,FIFA World Cup qualification,Doha,Qatar,False
+2024-10-10,Uzbekistan,Iran,0.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2024-10-10,United Arab Emirates,North Korea,1.0,1.0,FIFA World Cup qualification,Al Ain,United Arab Emirates,False
+2024-10-10,Jordan,South Korea,0.0,2.0,FIFA World Cup qualification,Amman,Jordan,False
+2024-10-10,Oman,Kuwait,4.0,0.0,FIFA World Cup qualification,Muscat,Oman,False
+2024-10-10,Iraq,Palestine,1.0,0.0,FIFA World Cup qualification,Basra,Iraq,False
+2024-10-10,Bahrain,Indonesia,2.0,2.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-10-10,Australia,China PR,3.0,1.0,FIFA World Cup qualification,Adelaide,Australia,False
+2024-10-10,Saudi Arabia,Japan,0.0,2.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2024-10-11,Peru,Uruguay,1.0,0.0,FIFA World Cup qualification,Lima,Peru,False
+2024-10-11,New Zealand,Tahiti,3.0,0.0,FIFA World Cup qualification,Port Vila,Vanuatu,True
+2024-10-12,Vanuatu,Samoa,4.0,1.0,FIFA World Cup qualification,Port Vila,Vanuatu,False
+2024-10-15,Colombia,Chile,4.0,0.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2024-10-15,Paraguay,Venezuela,2.0,1.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2024-10-15,Uruguay,Ecuador,0.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2024-10-15,Argentina,Bolivia,6.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2024-10-15,Brazil,Peru,4.0,0.0,FIFA World Cup qualification,Brasília,Brazil,False
+2024-10-15,Uzbekistan,United Arab Emirates,1.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2024-10-15,Iran,Qatar,4.0,1.0,FIFA World Cup qualification,Dubai,United Arab Emirates,True
+2024-10-15,Kyrgyzstan,North Korea,1.0,0.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-10-15,Jordan,Oman,4.0,0.0,FIFA World Cup qualification,Amman,Jordan,False
+2024-10-15,Palestine,Kuwait,2.0,2.0,FIFA World Cup qualification,Al Rayyan,Qatar,True
+2024-10-15,South Korea,Iraq,3.0,2.0,FIFA World Cup qualification,Yongin,South Korea,False
+2024-10-15,Japan,Australia,1.0,1.0,FIFA World Cup qualification,Saitama,Japan,False
+2024-10-15,China PR,Indonesia,2.0,1.0,FIFA World Cup qualification,Qingdao,China PR,False
+2024-10-15,Saudi Arabia,Bahrain,0.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2024-11-14,Venezuela,Brazil,1.0,1.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2024-11-14,Ecuador,Bolivia,4.0,0.0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+2024-11-14,Paraguay,Argentina,2.0,1.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2024-11-14,Solomon Islands,New Caledonia,2.0,3.0,FIFA World Cup qualification,Port Moresby,Papua New Guinea,True
+2024-11-14,Papua New Guinea,Fiji,3.0,3.0,FIFA World Cup qualification,Port Moresby,Papua New Guinea,False
+2024-11-14,North Korea,Iran,2.0,3.0,FIFA World Cup qualification,Vientiane,Laos,True
+2024-11-14,Qatar,Uzbekistan,3.0,2.0,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2024-11-14,United Arab Emirates,Kyrgyzstan,3.0,0.0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2024-11-14,Kuwait,South Korea,1.0,3.0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2024-11-14,Iraq,Jordan,0.0,0.0,FIFA World Cup qualification,Basra,Iraq,False
+2024-11-14,Oman,Palestine,1.0,0.0,FIFA World Cup qualification,Muscat,Oman,False
+2024-11-14,Bahrain,China PR,0.0,1.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-11-14,Australia,Saudi Arabia,0.0,0.0,FIFA World Cup qualification,Melbourne,Australia,False
+2024-11-15,Peru,Chile,0.0,0.0,FIFA World Cup qualification,Lima,Peru,False
+2024-11-15,Uruguay,Colombia,3.0,2.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2024-11-15,Samoa,Tahiti,0.0,3.0,FIFA World Cup qualification,Hamilton,New Zealand,True
+2024-11-15,New Zealand,Vanuatu,8.0,1.0,FIFA World Cup qualification,Hamilton,New Zealand,False
+2024-11-15,Indonesia,Japan,0.0,4.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-11-17,Fiji,New Caledonia,1.0,1.0,FIFA World Cup qualification,Port Moresby,Papua New Guinea,True
+2024-11-17,Papua New Guinea,Solomon Islands,1.0,2.0,FIFA World Cup qualification,Port Moresby,Papua New Guinea,False
+2024-11-18,Tahiti,Vanuatu,2.0,0.0,FIFA World Cup qualification,Auckland,New Zealand,True
+2024-11-18,New Zealand,Samoa,8.0,0.0,FIFA World Cup qualification,Auckland,New Zealand,False
+2024-11-19,Bolivia,Paraguay,2.0,2.0,FIFA World Cup qualification,El Alto,Bolivia,False
+2024-11-19,Colombia,Ecuador,0.0,1.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2024-11-19,Argentina,Peru,1.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2024-11-19,Chile,Venezuela,4.0,2.0,FIFA World Cup qualification,Santiago,Chile,False
+2024-11-19,Brazil,Uruguay,1.0,1.0,FIFA World Cup qualification,Salvador,Brazil,False
+2024-11-19,North Korea,Uzbekistan,0.0,1.0,FIFA World Cup qualification,Vientiane,Laos,True
+2024-11-19,Kyrgyzstan,Iran,2.0,3.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2024-11-19,United Arab Emirates,Qatar,5.0,0.0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2024-11-19,Palestine,South Korea,1.0,1.0,FIFA World Cup qualification,Amman,Jordan,True
+2024-11-19,Oman,Iraq,0.0,1.0,FIFA World Cup qualification,Muscat,Oman,False
+2024-11-19,Kuwait,Jordan,1.0,1.0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2024-11-19,Bahrain,Australia,2.0,2.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2024-11-19,Indonesia,Saudi Arabia,2.0,0.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2024-11-19,China PR,Japan,1.0,3.0,FIFA World Cup qualification,Xiamen,China PR,False
+2025-03-19,Eswatini,Cameroon,0.0,0.0,FIFA World Cup qualification,Mbombela,South Africa,True
+2025-03-19,Liberia,Tunisia,0.0,1.0,FIFA World Cup qualification,Monrovia,Liberia,False
+2025-03-19,Central African Republic,Madagascar,1.0,4.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-03-20,Paraguay,Chile,1.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2025-03-20,Peru,Bolivia,3.0,1.0,FIFA World Cup qualification,Lima,Peru,False
+2025-03-20,Brazil,Colombia,2.0,1.0,FIFA World Cup qualification,Brasília,Brazil,False
+2025-03-20,Iran,United Arab Emirates,2.0,0.0,FIFA World Cup qualification,Tehran,Iran,False
+2025-03-20,Uzbekistan,Kyrgyzstan,1.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2025-03-20,Qatar,North Korea,5.0,1.0,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2025-03-20,South Korea,Oman,1.0,1.0,FIFA World Cup qualification,Goyang,South Korea,False
+2025-03-20,Iraq,Kuwait,2.0,2.0,FIFA World Cup qualification,Basra,Iraq,False
+2025-03-20,Jordan,Palestine,3.0,1.0,FIFA World Cup qualification,Amman,Jordan,False
+2025-03-20,Japan,Bahrain,2.0,0.0,FIFA World Cup qualification,Saitama,Japan,False
+2025-03-20,Australia,Indonesia,5.0,1.0,FIFA World Cup qualification,Sydney,Australia,False
+2025-03-20,Saudi Arabia,China PR,1.0,0.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,False
+2025-03-20,Sierra Leone,Guinea-Bissau,3.0,1.0,FIFA World Cup qualification,Monrovia,Liberia,True
+2025-03-20,Zimbabwe,Benin,2.0,2.0,FIFA World Cup qualification,Durban,South Africa,True
+2025-03-20,Cape Verde,Mauritius,1.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False
+2025-03-20,Libya,Angola,1.0,1.0,FIFA World Cup qualification,Benghazi,Libya,False
+2025-03-20,Gambia,Kenya,3.0,3.0,FIFA World Cup qualification,Ebimpé,Ivory Coast,True
+2025-03-20,Gabon,Seychelles,3.0,0.0,FIFA World Cup qualification,Franceville,Gabon,False
+2025-03-20,Mozambique,Uganda,3.0,1.0,FIFA World Cup qualification,Cairo,Egypt,True
+2025-03-20,Malawi,Namibia,0.0,1.0,FIFA World Cup qualification,Lilongwe,Malawi,False
+2025-03-20,Comoros,Mali,0.0,3.0,FIFA World Cup qualification,Berkane,Morocco,True
+2025-03-21,Ecuador,Venezuela,2.0,1.0,FIFA World Cup qualification,Quito,Ecuador,False
+2025-03-21,Uruguay,Argentina,0.0,1.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2025-03-21,New Caledonia,Tahiti,3.0,0.0,FIFA World Cup qualification,Wellington,New Zealand,True
+2025-03-21,New Zealand,Fiji,7.0,0.0,FIFA World Cup qualification,Wellington,New Zealand,False
+2025-03-21,Burkina Faso,Djibouti,4.0,1.0,FIFA World Cup qualification,El Jadida,Morocco,True
+2025-03-21,Ethiopia,Egypt,0.0,2.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-03-21,DR Congo,South Sudan,1.0,0.0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2025-03-21,Rwanda,Nigeria,0.0,2.0,FIFA World Cup qualification,Kigali,Rwanda,False
+2025-03-21,South Africa,Lesotho,0.0,3.0,FIFA World Cup qualification,Polokwane,South Africa,False
+2025-03-21,Morocco,Niger,2.0,1.0,FIFA World Cup qualification,Oujda,Morocco,False
+2025-03-21,Burundi,Ivory Coast,0.0,1.0,FIFA World Cup qualification,Meknes,Morocco,True
+2025-03-21,Botswana,Algeria,1.0,3.0,FIFA World Cup qualification,Francistown,Botswana,False
+2025-03-21,Guinea,Somalia,0.0,0.0,FIFA World Cup qualification,Ebimpé,Ivory Coast,True
+2025-03-21,Equatorial Guinea,São Tomé and Príncipe,2.0,0.0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2025-03-21,Ghana,Chad,5.0,0.0,FIFA World Cup qualification,Accra,Ghana,False
+2025-03-21,Malta,Finland,0.0,1.0,FIFA World Cup qualification,Ta' Qali,Malta,False
+2025-03-21,Poland,Lithuania,1.0,0.0,FIFA World Cup qualification,Warsaw,Poland,False
+2025-03-21,Cyprus,San Marino,2.0,0.0,FIFA World Cup qualification,Larnaca,Cyprus,False
+2025-03-21,Romania,Bosnia and Herzegovina,0.0,1.0,FIFA World Cup qualification,Bucharest,Romania,False
+2025-03-21,England,Albania,2.0,0.0,FIFA World Cup qualification,London,England,False
+2025-03-21,Andorra,Latvia,0.0,1.0,FIFA World Cup qualification,Andorra la Vella,Andorra,False
+2025-03-22,Togo,Mauritania,2.0,2.0,FIFA World Cup qualification,Lomé,Togo,False
+2025-03-22,Sudan,Senegal,0.0,0.0,FIFA World Cup qualification,Benghazi,Libya,True
+2025-03-22,Moldova,Norway,0.0,5.0,FIFA World Cup qualification,Chișinău,Moldova,False
+2025-03-22,Israel,Estonia,2.0,1.0,FIFA World Cup qualification,Debrecen,Hungary,True
+2025-03-22,Liechtenstein,North Macedonia,0.0,3.0,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2025-03-22,Wales,Kazakhstan,3.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False
+2025-03-22,Montenegro,Gibraltar,3.0,1.0,FIFA World Cup qualification,Nikšić,Montenegro,False
+2025-03-22,Czech Republic,Faroe Islands,2.0,1.0,FIFA World Cup qualification,Hradec Králové,Czech Republic,False
+2025-03-23,Eswatini,Mauritius,3.0,3.0,FIFA World Cup qualification,Mbombela,South Africa,True
+2025-03-23,Kenya,Gabon,1.0,2.0,FIFA World Cup qualification,Nairobi,Kenya,False
+2025-03-24,New Zealand,New Caledonia,3.0,0.0,FIFA World Cup qualification,Auckland,New Zealand,False
+2025-03-24,Guinea-Bissau,Burkina Faso,1.0,2.0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2025-03-24,Ethiopia,Djibouti,6.0,1.0,FIFA World Cup qualification,El Jadida,Morocco,True
+2025-03-24,Ivory Coast,Gambia,1.0,0.0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2025-03-24,Namibia,Equatorial Guinea,1.0,1.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2025-03-24,Liberia,São Tomé and Príncipe,2.0,1.0,FIFA World Cup qualification,Monrovia,Liberia,False
+2025-03-24,Tunisia,Malawi,2.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False
+2025-03-24,Central African Republic,Mali,0.0,0.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-03-24,Madagascar,Ghana,0.0,3.0,FIFA World Cup qualification,Al Hoceima,Morocco,True
+2025-03-24,Lithuania,Finland,2.0,2.0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2025-03-24,Poland,Malta,2.0,0.0,FIFA World Cup qualification,Warsaw,Poland,False
+2025-03-24,Bosnia and Herzegovina,Cyprus,2.0,1.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2025-03-24,San Marino,Romania,1.0,5.0,FIFA World Cup qualification,Serravalle,San Marino,False
+2025-03-24,England,Latvia,3.0,0.0,FIFA World Cup qualification,London,England,False
+2025-03-24,Albania,Andorra,3.0,0.0,FIFA World Cup qualification,Tirana,Albania,False
+2025-03-25,Bolivia,Uruguay,0.0,0.0,FIFA World Cup qualification,El Alto,Bolivia,False
+2025-03-25,Colombia,Paraguay,2.0,2.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2025-03-25,Venezuela,Peru,1.0,0.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2025-03-25,Argentina,Brazil,4.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2025-03-25,Chile,Ecuador,0.0,0.0,FIFA World Cup qualification,Santiago,Chile,False
+2025-03-25,Iran,Uzbekistan,2.0,2.0,FIFA World Cup qualification,Tehran,Iran,False
+2025-03-25,Kyrgyzstan,Qatar,3.0,1.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2025-03-25,North Korea,United Arab Emirates,1.0,2.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+2025-03-25,South Korea,Jordan,1.0,1.0,FIFA World Cup qualification,Suwon,South Korea,False
+2025-03-25,Kuwait,Oman,0.0,1.0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2025-03-25,Palestine,Iraq,2.0,1.0,FIFA World Cup qualification,Amman,Jordan,True
+2025-03-25,China PR,Australia,0.0,2.0,FIFA World Cup qualification,Hangzhou,China PR,False
+2025-03-25,Japan,Saudi Arabia,0.0,0.0,FIFA World Cup qualification,Saitama,Japan,False
+2025-03-25,Indonesia,Bahrain,1.0,0.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2025-03-25,Egypt,Sierra Leone,1.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False
+2025-03-25,Mauritania,DR Congo,0.0,2.0,FIFA World Cup qualification,Nouadhibou,Mauritania,False
+2025-03-25,Senegal,Togo,2.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,False
+2025-03-25,Sudan,South Sudan,1.0,1.0,FIFA World Cup qualification,Benghazi,Libya,True
+2025-03-25,Benin,South Africa,0.0,2.0,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+2025-03-25,Nigeria,Zimbabwe,1.0,1.0,FIFA World Cup qualification,Uyo,Nigeria,False
+2025-03-25,Rwanda,Lesotho,1.0,1.0,FIFA World Cup qualification,Kigali,Rwanda,False
+2025-03-25,Angola,Cape Verde,1.0,2.0,FIFA World Cup qualification,Luanda,Angola,False
+2025-03-25,Cameroon,Libya,3.0,1.0,FIFA World Cup qualification,Yaounde,Cameroon,False
+2025-03-25,Morocco,Tanzania,2.0,0.0,FIFA World Cup qualification,Oujda,Morocco,False
+2025-03-25,Burundi,Seychelles,5.0,0.0,FIFA World Cup qualification,Meknes,Morocco,True
+2025-03-25,Uganda,Guinea,1.0,0.0,FIFA World Cup qualification,Kira,Uganda,False
+2025-03-25,Botswana,Somalia,2.0,0.0,FIFA World Cup qualification,Francistown,Botswana,False
+2025-03-25,Algeria,Mozambique,5.0,1.0,FIFA World Cup qualification,Tizi Ouzou,Algeria,False
+2025-03-25,Comoros,Chad,1.0,0.0,FIFA World Cup qualification,Berkane,Morocco,True
+2025-03-25,Moldova,Estonia,2.0,3.0,FIFA World Cup qualification,Chișinău,Moldova,False
+2025-03-25,Israel,Norway,2.0,4.0,FIFA World Cup qualification,Debrecen,Hungary,True
+2025-03-25,Liechtenstein,Kazakhstan,0.0,2.0,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2025-03-25,North Macedonia,Wales,1.0,1.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2025-03-25,Gibraltar,Czech Republic,0.0,4.0,FIFA World Cup qualification,Faro-Loulé,Portugal,True
+2025-03-25,Montenegro,Faroe Islands,1.0,0.0,FIFA World Cup qualification,Nikšić,Montenegro,False
+2025-06-04,Bermuda,Cayman Islands,5.0,0.0,FIFA World Cup qualification,Devonshire Parish,Bermuda,False
+2025-06-04,Grenada,Bahamas,6.0,0.0,FIFA World Cup qualification,St. George's,Grenada,False
+2025-06-04,Barbados,Aruba,1.0,1.0,FIFA World Cup qualification,Wildey,Barbados,False
+2025-06-04,Montserrat,Belize,1.0,0.0,FIFA World Cup qualification,Couva,Trinidad and Tobago,True
+2025-06-04,Dominica,British Virgin Islands,3.0,0.0,FIFA World Cup qualification,Roseau,Dominica,False
+2025-06-04,Saint Vincent and the Grenadines,Anguilla,6.0,0.0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2025-06-05,Ecuador,Brazil,0.0,0.0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+2025-06-05,Paraguay,Uruguay,2.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2025-06-05,Chile,Argentina,0.0,1.0,FIFA World Cup qualification,Santiago,Chile,False
+2025-06-05,United Arab Emirates,Uzbekistan,0.0,0.0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2025-06-05,North Korea,Kyrgyzstan,2.0,2.0,FIFA World Cup qualification,Riyadh,Saudi Arabia,True
+2025-06-05,Qatar,Iran,1.0,0.0,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2025-06-05,Oman,Jordan,0.0,3.0,FIFA World Cup qualification,Muscat,Oman,False
+2025-06-05,Iraq,South Korea,0.0,2.0,FIFA World Cup qualification,Basra,Iraq,False
+2025-06-05,Kuwait,Palestine,0.0,2.0,FIFA World Cup qualification,Kuwait City,Kuwait,False
+2025-06-05,Bahrain,Saudi Arabia,0.0,2.0,FIFA World Cup qualification,Riffa,Bahrain,False
+2025-06-05,Australia,Japan,1.0,0.0,FIFA World Cup qualification,Perth,Australia,False
+2025-06-05,Indonesia,China PR,1.0,0.0,FIFA World Cup qualification,Jakarta,Indonesia,False
+2025-06-06,Colombia,Peru,0.0,0.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2025-06-06,Venezuela,Bolivia,2.0,0.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2025-06-06,Norway,Italy,3.0,0.0,FIFA World Cup qualification,Oslo,Norway,False
+2025-06-06,Estonia,Israel,1.0,3.0,FIFA World Cup qualification,Tallinn,Estonia,False
+2025-06-06,Wales,Liechtenstein,3.0,0.0,FIFA World Cup qualification,Cardiff,Wales,False
+2025-06-06,North Macedonia,Belgium,1.0,1.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2025-06-06,Czech Republic,Montenegro,2.0,0.0,FIFA World Cup qualification,Plzeň,Czech Republic,False
+2025-06-06,Gibraltar,Croatia,0.0,7.0,FIFA World Cup qualification,Faro-Loulé,Portugal,True
+2025-06-06,Antigua and Barbuda,Cuba,0.0,1.0,FIFA World Cup qualification,Piggotts,Antigua and Barbuda,False
+2025-06-06,Trinidad and Tobago,Saint Kitts and Nevis,6.0,2.0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2025-06-06,Curaçao,Saint Lucia,4.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,False
+2025-06-06,Nicaragua,Guyana,1.0,0.0,FIFA World Cup qualification,Managua,Nicaragua,False
+2025-06-06,Guatemala,Dominican Republic,4.0,2.0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2025-06-06,Suriname,Puerto Rico,1.0,0.0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2025-06-07,Malta,Lithuania,0.0,0.0,FIFA World Cup qualification,Ta' Qali,Malta,False
+2025-06-07,Finland,Netherlands,0.0,2.0,FIFA World Cup qualification,Helsinki,Finland,False
+2025-06-07,Bosnia and Herzegovina,San Marino,1.0,0.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2025-06-07,Austria,Romania,2.0,1.0,FIFA World Cup qualification,Vienna,Austria,False
+2025-06-07,Andorra,England,0.0,1.0,FIFA World Cup qualification,Barcelona,Spain,True
+2025-06-07,Albania,Serbia,0.0,0.0,FIFA World Cup qualification,Tirana,Albania,False
+2025-06-07,Cayman Islands,Honduras,0.0,1.0,FIFA World Cup qualification,George Town,Cayman Islands,False
+2025-06-07,Bahamas,Costa Rica,0.0,8.0,FIFA World Cup qualification,Wildey,Barbados,True
+2025-06-07,Aruba,Haiti,0.0,5.0,FIFA World Cup qualification,Oranjestad,Aruba,False
+2025-06-07,Belize,Panama,0.0,2.0,FIFA World Cup qualification,Belmopan,Belize,False
+2025-06-07,British Virgin Islands,Jamaica,0.0,1.0,FIFA World Cup qualification,Road Town,British Virgin Islands,False
+2025-06-07,Anguilla,El Salvador,0.0,3.0,FIFA World Cup qualification,The Valley,Anguilla,False
+2025-06-09,Italy,Moldova,2.0,0.0,FIFA World Cup qualification,Reggio Emilia,Italy,False
+2025-06-09,Estonia,Norway,0.0,1.0,FIFA World Cup qualification,Tallinn,Estonia,False
+2025-06-09,Kazakhstan,North Macedonia,0.0,1.0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2025-06-09,Belgium,Wales,4.0,3.0,FIFA World Cup qualification,Brussels,Belgium,False
+2025-06-09,Faroe Islands,Gibraltar,2.0,1.0,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2025-06-09,Croatia,Czech Republic,5.0,1.0,FIFA World Cup qualification,Osijek,Croatia,False
+2025-06-10,Bolivia,Chile,2.0,0.0,FIFA World Cup qualification,El Alto,Bolivia,False
+2025-06-10,Uruguay,Venezuela,2.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2025-06-10,Peru,Ecuador,0.0,0.0,FIFA World Cup qualification,Lima,Peru,False
+2025-06-10,Argentina,Colombia,1.0,1.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2025-06-10,Brazil,Paraguay,1.0,0.0,FIFA World Cup qualification,São Paulo,Brazil,False
+2025-06-10,Uzbekistan,Qatar,3.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2025-06-10,Iran,North Korea,3.0,0.0,FIFA World Cup qualification,Tehran,Iran,False
+2025-06-10,Kyrgyzstan,United Arab Emirates,1.0,1.0,FIFA World Cup qualification,Bishkek,Kyrgyzstan,False
+2025-06-10,South Korea,Kuwait,4.0,0.0,FIFA World Cup qualification,Seoul,South Korea,False
+2025-06-10,Jordan,Iraq,0.0,1.0,FIFA World Cup qualification,Amman,Jordan,False
+2025-06-10,Palestine,Oman,1.0,1.0,FIFA World Cup qualification,Amman,Jordan,True
+2025-06-10,China PR,Bahrain,1.0,0.0,FIFA World Cup qualification,Chongqing,China PR,False
+2025-06-10,Japan,Indonesia,6.0,0.0,FIFA World Cup qualification,Suita,Japan,False
+2025-06-10,Saudi Arabia,Australia,1.0,2.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2025-06-10,Netherlands,Malta,8.0,0.0,FIFA World Cup qualification,Groningen,Netherlands,False
+2025-06-10,Finland,Poland,2.0,1.0,FIFA World Cup qualification,Helsinki,Finland,False
+2025-06-10,San Marino,Austria,0.0,4.0,FIFA World Cup qualification,Serravalle,San Marino,False
+2025-06-10,Romania,Cyprus,2.0,0.0,FIFA World Cup qualification,Bucharest,Romania,False
+2025-06-10,Serbia,Andorra,3.0,0.0,FIFA World Cup qualification,Leskovac,Serbia,False
+2025-06-10,Latvia,Albania,1.0,1.0,FIFA World Cup qualification,Riga,Latvia,False
+2025-06-10,Cuba,Bermuda,1.0,2.0,FIFA World Cup qualification,Santiago de Cuba,Cuba,False
+2025-06-10,Honduras,Antigua and Barbuda,2.0,0.0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2025-06-10,Saint Kitts and Nevis,Grenada,2.0,3.0,FIFA World Cup qualification,Basseterre,Saint Kitts and Nevis,False
+2025-06-10,Costa Rica,Trinidad and Tobago,2.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False
+2025-06-10,Saint Lucia,Barbados,2.0,1.0,FIFA World Cup qualification,Gros Islet,Saint Lucia,False
+2025-06-10,Haiti,Curaçao,1.0,5.0,FIFA World Cup qualification,Oranjestad,Aruba,True
+2025-06-10,Guyana,Montserrat,3.0,0.0,FIFA World Cup qualification,Leonora,Guyana,False
+2025-06-10,Panama,Nicaragua,3.0,0.0,FIFA World Cup qualification,Panama City,Panama,False
+2025-06-10,Dominican Republic,Dominica,5.0,0.0,FIFA World Cup qualification,Santo Domingo,Dominican Republic,False
+2025-06-10,Jamaica,Guatemala,3.0,0.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2025-06-10,Puerto Rico,Saint Vincent and the Grenadines,2.0,1.0,FIFA World Cup qualification,Mayagüez,Puerto Rico,False
+2025-06-10,El Salvador,Suriname,1.0,1.0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2025-09-03,Seychelles,Gabon,0.0,4.0,FIFA World Cup qualification,Saint Pierre,Mauritius,True
+2025-09-04,Colombia,Bolivia,3.0,0.0,FIFA World Cup qualification,Barranquilla,Colombia,False
+2025-09-04,Argentina,Venezuela,3.0,0.0,FIFA World Cup qualification,Buenos Aires,Argentina,False
+2025-09-04,Paraguay,Ecuador,0.0,0.0,FIFA World Cup qualification,Asunción,Paraguay,False
+2025-09-04,Uruguay,Peru,3.0,0.0,FIFA World Cup qualification,Montevideo,Uruguay,False
+2025-09-04,Brazil,Chile,3.0,0.0,FIFA World Cup qualification,Rio de Janeiro,Brazil,False
+2025-09-04,Guinea-Bissau,Sierra Leone,1.0,1.0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2025-09-04,Angola,Libya,0.0,1.0,FIFA World Cup qualification,Luanda,Angola,False
+2025-09-04,Cameroon,Eswatini,3.0,0.0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2025-09-04,Mauritius,Cape Verde,0.0,2.0,FIFA World Cup qualification,Saint Pierre,Mauritius,False
+2025-09-04,Algeria,Botswana,3.0,1.0,FIFA World Cup qualification,Tizi Ouzou,Algeria,False
+2025-09-04,São Tomé and Príncipe,Equatorial Guinea,2.0,3.0,FIFA World Cup qualification,Oujda,Morocco,True
+2025-09-04,Tunisia,Liberia,3.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False
+2025-09-04,Chad,Ghana,1.0,1.0,FIFA World Cup qualification,N'Djamena,Chad,False
+2025-09-04,Madagascar,Central African Republic,2.0,0.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-09-04,Mali,Comoros,3.0,0.0,FIFA World Cup qualification,Berkane,Morocco,True
+2025-09-04,Luxembourg,Northern Ireland,1.0,3.0,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2025-09-04,Slovakia,Germany,2.0,0.0,FIFA World Cup qualification,Bratislava,Slovakia,False
+2025-09-04,Georgia,Turkey,2.0,3.0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2025-09-04,Bulgaria,Spain,0.0,3.0,FIFA World Cup qualification,Sofia,Bulgaria,False
+2025-09-04,Lithuania,Malta,1.0,1.0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2025-09-04,Netherlands,Poland,1.0,1.0,FIFA World Cup qualification,Rotterdam,Netherlands,False
+2025-09-04,Kazakhstan,Wales,0.0,1.0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2025-09-04,Liechtenstein,Belgium,0.0,6.0,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2025-09-04,Suriname,Panama,0.0,0.0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2025-09-04,Guatemala,El Salvador,0.0,1.0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2025-09-05,Djibouti,Burkina Faso,0.0,6.0,FIFA World Cup qualification,Bissau,Guinea-Bissau,True
+2025-09-05,Egypt,Ethiopia,2.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False
+2025-09-05,South Sudan,DR Congo,1.0,4.0,FIFA World Cup qualification,Juba,South Sudan,False
+2025-09-05,Mauritania,Togo,2.0,0.0,FIFA World Cup qualification,Nouadhibou,Mauritania,False
+2025-09-05,Senegal,Sudan,2.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,False
+2025-09-05,Benin,Zimbabwe,1.0,0.0,FIFA World Cup qualification,Ebimpé,Ivory Coast,True
+2025-09-05,South Africa,Lesotho,3.0,0.0,FIFA World Cup qualification,Bloemfontein,South Africa,False
+2025-09-05,Congo,Tanzania,1.0,1.0,FIFA World Cup qualification,Brazzaville,Congo,False
+2025-09-05,Morocco,Niger,5.0,0.0,FIFA World Cup qualification,Rabat,Morocco,False
+2025-09-05,Kenya,Gambia,1.0,3.0,FIFA World Cup qualification,Nairobi,Kenya,False
+2025-09-05,Ivory Coast,Burundi,1.0,0.0,FIFA World Cup qualification,Abidjan,Ivory Coast,False
+2025-09-05,Somalia,Guinea,0.0,3.0,FIFA World Cup qualification,Kampala,Uganda,True
+2025-09-05,Uganda,Mozambique,4.0,0.0,FIFA World Cup qualification,Kampala,Uganda,False
+2025-09-05,Namibia,Malawi,1.0,2.0,FIFA World Cup qualification,Francistown,Botswana,True
+2025-09-05,Slovenia,Sweden,2.0,2.0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2025-09-05,Switzerland,Kosovo,4.0,0.0,FIFA World Cup qualification,Basel,Switzerland,False
+2025-09-05,Denmark,Scotland,0.0,0.0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2025-09-05,Greece,Belarus,5.0,1.0,FIFA World Cup qualification,Athens,Greece,False
+2025-09-05,Iceland,Azerbaijan,5.0,0.0,FIFA World Cup qualification,Reykjavík,Iceland,False
+2025-09-05,Ukraine,France,0.0,2.0,FIFA World Cup qualification,Wrocław,Poland,True
+2025-09-05,Italy,Estonia,5.0,0.0,FIFA World Cup qualification,Bergamo,Italy,False
+2025-09-05,Moldova,Israel,0.0,4.0,FIFA World Cup qualification,Chișinău,Moldova,False
+2025-09-05,Faroe Islands,Croatia,0.0,1.0,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2025-09-05,Montenegro,Czech Republic,0.0,2.0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2025-09-05,Bermuda,Jamaica,0.0,4.0,FIFA World Cup qualification,Devonshire Parish,Bermuda,False
+2025-09-05,Trinidad and Tobago,Curaçao,0.0,0.0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2025-09-05,Haiti,Honduras,0.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,True
+2025-09-05,Nicaragua,Costa Rica,1.0,1.0,FIFA World Cup qualification,Managua,Nicaragua,False
+2025-09-06,Nigeria,Rwanda,1.0,0.0,FIFA World Cup qualification,Uyo,Nigeria,False
+2025-09-06,Republic of Ireland,Hungary,2.0,2.0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2025-09-06,Armenia,Portugal,0.0,5.0,FIFA World Cup qualification,Yerevan,Armenia,False
+2025-09-06,Austria,Cyprus,1.0,0.0,FIFA World Cup qualification,Linz,Austria,False
+2025-09-06,San Marino,Bosnia and Herzegovina,0.0,6.0,FIFA World Cup qualification,Serravalle,San Marino,False
+2025-09-06,Latvia,Serbia,0.0,1.0,FIFA World Cup qualification,Riga,Latvia,False
+2025-09-06,England,Andorra,2.0,0.0,FIFA World Cup qualification,London,England,False
+2025-09-07,Central African Republic,Comoros,0.0,2.0,FIFA World Cup qualification,Meknes,Morocco,True
+2025-09-07,Germany,Northern Ireland,3.0,1.0,FIFA World Cup qualification,Cologne,Germany,False
+2025-09-07,Luxembourg,Slovakia,0.0,1.0,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2025-09-07,Georgia,Bulgaria,3.0,0.0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2025-09-07,Turkey,Spain,0.0,6.0,FIFA World Cup qualification,Konya,Turkey,False
+2025-09-07,Lithuania,Netherlands,2.0,3.0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2025-09-07,Poland,Finland,3.0,1.0,FIFA World Cup qualification,Chorzów,Poland,False
+2025-09-07,North Macedonia,Liechtenstein,5.0,0.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2025-09-07,Belgium,Kazakhstan,6.0,0.0,FIFA World Cup qualification,Anderlecht,Belgium,False
+2025-09-08,Guinea-Bissau,Djibouti,2.0,0.0,FIFA World Cup qualification,Bissau,Guinea-Bissau,False
+2025-09-08,Libya,Eswatini,2.0,0.0,FIFA World Cup qualification,Benghazi,Libya,False
+2025-09-08,Zambia,Morocco,0.0,2.0,FIFA World Cup qualification,Ndola,Zambia,False
+2025-09-08,Mozambique,Botswana,2.0,0.0,FIFA World Cup qualification,Maputo,Mozambique,False
+2025-09-08,Guinea,Algeria,0.0,0.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-09-08,Uganda,Somalia,2.0,0.0,FIFA World Cup qualification,Kampala,Uganda,False
+2025-09-08,Equatorial Guinea,Tunisia,0.0,1.0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2025-09-08,Malawi,Liberia,2.0,2.0,FIFA World Cup qualification,Lilongwe,Malawi,False
+2025-09-08,Madagascar,Chad,3.0,1.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-09-08,Ghana,Mali,1.0,0.0,FIFA World Cup qualification,Accra,Ghana,False
+2025-09-08,Kosovo,Sweden,2.0,0.0,FIFA World Cup qualification,Pristina,Kosovo,False
+2025-09-08,Switzerland,Slovenia,3.0,0.0,FIFA World Cup qualification,Basel,Switzerland,False
+2025-09-08,Belarus,Scotland,0.0,2.0,FIFA World Cup qualification,Zalaegerszeg,Hungary,True
+2025-09-08,Greece,Denmark,0.0,3.0,FIFA World Cup qualification,Athens,Greece,False
+2025-09-08,Israel,Italy,4.0,5.0,FIFA World Cup qualification,Debrecen,Hungary,True
+2025-09-08,Croatia,Montenegro,4.0,0.0,FIFA World Cup qualification,Zagreb,Croatia,False
+2025-09-08,Gibraltar,Faroe Islands,0.0,1.0,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2025-09-08,El Salvador,Suriname,1.0,2.0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2025-09-08,Panama,Guatemala,1.0,1.0,FIFA World Cup qualification,Panama City,Panama,False
+2025-09-09,Ecuador,Argentina,1.0,0.0,FIFA World Cup qualification,Guayaquil,Ecuador,False
+2025-09-09,Peru,Paraguay,0.0,1.0,FIFA World Cup qualification,Lima,Peru,False
+2025-09-09,Bolivia,Brazil,1.0,0.0,FIFA World Cup qualification,El Alto,Bolivia,False
+2025-09-09,Venezuela,Colombia,3.0,6.0,FIFA World Cup qualification,Maturín,Venezuela,False
+2025-09-09,Chile,Uruguay,0.0,0.0,FIFA World Cup qualification,Santiago,Chile,False
+2025-09-09,Sierra Leone,Ethiopia,2.0,0.0,FIFA World Cup qualification,Monrovia,Liberia,True
+2025-09-09,Burkina Faso,Egypt,0.0,0.0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2025-09-09,Togo,Sudan,1.0,0.0,FIFA World Cup qualification,Lomé,Togo,False
+2025-09-09,DR Congo,Senegal,2.0,3.0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2025-09-09,Mauritania,South Sudan,0.0,0.0,FIFA World Cup qualification,Nouadhibou,Mauritania,False
+2025-09-09,Zimbabwe,Rwanda,0.0,1.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2025-09-09,South Africa,Nigeria,1.0,1.0,FIFA World Cup qualification,Bloemfontein,South Africa,False
+2025-09-09,Benin,Lesotho,4.0,0.0,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+2025-09-09,Cape Verde,Cameroon,1.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False
+2025-09-09,Angola,Mauritius,3.0,1.0,FIFA World Cup qualification,Luanda,Angola,False
+2025-09-09,Tanzania,Niger,0.0,1.0,FIFA World Cup qualification,Unguja,Tanzania,False
+2025-09-09,Kenya,Seychelles,5.0,0.0,FIFA World Cup qualification,Nairobi,Kenya,False
+2025-09-09,Gabon,Ivory Coast,0.0,0.0,FIFA World Cup qualification,Franceville,Gabon,False
+2025-09-09,Gambia,Burundi,2.0,0.0,FIFA World Cup qualification,Nairobi,Kenya,True
+2025-09-09,Namibia,São Tomé and Príncipe,3.0,0.0,FIFA World Cup qualification,Francistown,Botswana,True
+2025-09-09,Azerbaijan,Ukraine,1.0,1.0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2025-09-09,France,Iceland,2.0,1.0,FIFA World Cup qualification,Paris,France,False
+2025-09-09,Armenia,Republic of Ireland,2.0,1.0,FIFA World Cup qualification,Yerevan,Armenia,False
+2025-09-09,Hungary,Portugal,2.0,3.0,FIFA World Cup qualification,Budapest,Hungary,False
+2025-09-09,Bosnia and Herzegovina,Austria,1.0,2.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2025-09-09,Cyprus,Romania,2.0,2.0,FIFA World Cup qualification,Nicosia,Cyprus,False
+2025-09-09,Norway,Moldova,11.0,1.0,FIFA World Cup qualification,Oslo,Norway,False
+2025-09-09,Albania,Latvia,1.0,0.0,FIFA World Cup qualification,Tirana,Albania,False
+2025-09-09,Serbia,England,0.0,5.0,FIFA World Cup qualification,Belgrade,Serbia,False
+2025-09-09,Jamaica,Trinidad and Tobago,2.0,0.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2025-09-09,Curaçao,Bermuda,3.0,2.0,FIFA World Cup qualification,Willemstad,Curaçao,False
+2025-09-09,Costa Rica,Haiti,3.0,3.0,FIFA World Cup qualification,San José,Costa Rica,False
+2025-09-09,Honduras,Nicaragua,2.0,0.0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2025-10-08,Qatar,Oman,0.0,0.0,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2025-10-08,Saudi Arabia,Indonesia,3.0,2.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2025-10-08,Ethiopia,Guinea-Bissau,1.0,0.0,FIFA World Cup qualification,Kigali,Rwanda,True
+2025-10-08,Sierra Leone,Burkina Faso,0.0,1.0,FIFA World Cup qualification,Monrovia,Liberia,True
+2025-10-08,Djibouti,Egypt,0.0,3.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-10-08,Libya,Cape Verde,3.0,3.0,FIFA World Cup qualification,Tripoli,Libya,False
+2025-10-08,Eswatini,Angola,2.0,2.0,FIFA World Cup qualification,Lobamba,Eswatini,False
+2025-10-08,Mauritius,Cameroon,0.0,2.0,FIFA World Cup qualification,Saint Pierre,Mauritius,False
+2025-10-08,Niger,Congo,3.0,1.0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,True
+2025-10-08,Tanzania,Zambia,0.0,1.0,FIFA World Cup qualification,Unguja,Tanzania,False
+2025-10-08,Comoros,Madagascar,1.0,2.0,FIFA World Cup qualification,Abidjan,Ivory Coast,True
+2025-10-08,Central African Republic,Ghana,0.0,5.0,FIFA World Cup qualification,El Jadida,Morocco,True
+2025-10-08,Chad,Mali,0.0,2.0,FIFA World Cup qualification,N'Djamena,Chad,False
+2025-10-09,Burundi,Kenya,0.0,1.0,FIFA World Cup qualification,Bujumbura,Burundi,False
+2025-10-09,Algeria,Somalia,3.0,0.0,FIFA World Cup qualification,Bir El Djir,Algeria,False
+2025-10-09,Botswana,Uganda,0.0,1.0,FIFA World Cup qualification,Francistown,Botswana,False
+2025-10-09,Mozambique,Guinea,1.0,2.0,FIFA World Cup qualification,Maputo,Mozambique,False
+2025-10-09,Malawi,Equatorial Guinea,3.0,0.0,FIFA World Cup qualification,Lilongwe,Malawi,False
+2025-10-09,Scotland,Greece,3.0,1.0,FIFA World Cup qualification,Glasgow,Scotland,False
+2025-10-09,Belarus,Denmark,0.0,6.0,FIFA World Cup qualification,Zalaegerszeg,Hungary,True
+2025-10-09,Malta,Netherlands,0.0,4.0,FIFA World Cup qualification,Ta' Qali,Malta,False
+2025-10-09,Finland,Lithuania,2.0,1.0,FIFA World Cup qualification,Helsinki,Finland,False
+2025-10-09,Austria,San Marino,10.0,0.0,FIFA World Cup qualification,Vienna,Austria,False
+2025-10-09,Cyprus,Bosnia and Herzegovina,2.0,2.0,FIFA World Cup qualification,Larnaca,Cyprus,False
+2025-10-09,Faroe Islands,Montenegro,4.0,0.0,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2025-10-09,Czech Republic,Croatia,0.0,0.0,FIFA World Cup qualification,Prague,Czech Republic,False
+2025-10-09,Liberia,Namibia,3.0,1.0,FIFA World Cup qualification,Monrovia,Liberia,False
+2025-10-09,Nicaragua,Haiti,0.0,3.0,FIFA World Cup qualification,Managua,Nicaragua,False
+2025-10-09,Honduras,Costa Rica,0.0,0.0,FIFA World Cup qualification,San Pedro Sula,Honduras,False
+2025-10-10,Togo,DR Congo,0.0,1.0,FIFA World Cup qualification,Lomé,Togo,False
+2025-10-10,South Sudan,Senegal,0.0,5.0,FIFA World Cup qualification,Juba,South Sudan,False
+2025-10-10,Sudan,Mauritania,0.0,0.0,FIFA World Cup qualification,Dar es Salaam,Tanzania,True
+2025-10-10,Lesotho,Nigeria,1.0,2.0,FIFA World Cup qualification,Polokwane,South Africa,True
+2025-10-10,Rwanda,Benin,0.0,1.0,FIFA World Cup qualification,Kigali,Rwanda,False
+2025-10-10,South Africa,Zimbabwe,0.0,0.0,FIFA World Cup qualification,Durban,South Africa,False
+2025-10-10,Gambia,Gabon,3.0,4.0,FIFA World Cup qualification,Nairobi,Kenya,True
+2025-10-10,Seychelles,Ivory Coast,0.0,7.0,FIFA World Cup qualification,Saint Pierre,Mauritius,True
+2025-10-10,Tunisia,São Tomé and Príncipe,6.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False
+2025-10-10,Northern Ireland,Slovakia,2.0,0.0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2025-10-10,Germany,Luxembourg,4.0,0.0,FIFA World Cup qualification,Sinsheim,Germany,False
+2025-10-10,Kosovo,Slovenia,0.0,0.0,FIFA World Cup qualification,Pristina,Kosovo,False
+2025-10-10,Sweden,Switzerland,0.0,2.0,FIFA World Cup qualification,Solna,Sweden,False
+2025-10-10,Iceland,Ukraine,3.0,5.0,FIFA World Cup qualification,Reykjavík,Iceland,False
+2025-10-10,France,Azerbaijan,3.0,0.0,FIFA World Cup qualification,Paris,France,False
+2025-10-10,Kazakhstan,Liechtenstein,4.0,0.0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2025-10-10,Belgium,North Macedonia,0.0,0.0,FIFA World Cup qualification,Gent,Belgium,False
+2025-10-10,Suriname,Guatemala,1.0,1.0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2025-10-10,El Salvador,Panama,0.0,1.0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2025-10-10,Bermuda,Trinidad and Tobago,0.0,3.0,FIFA World Cup qualification,Devonshire Parish,Bermuda,False
+2025-10-10,Curaçao,Jamaica,2.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,False
+2025-10-11,United Arab Emirates,Oman,2.0,1.0,FIFA World Cup qualification,Al Rayyan,Qatar,True
+2025-10-11,Iraq,Indonesia,1.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,True
+2025-10-11,Spain,Georgia,2.0,0.0,FIFA World Cup qualification,Elche,Spain,False
+2025-10-11,Bulgaria,Turkey,1.0,6.0,FIFA World Cup qualification,Sofia,Bulgaria,False
+2025-10-11,Hungary,Armenia,2.0,0.0,FIFA World Cup qualification,Budapest,Hungary,False
+2025-10-11,Portugal,Republic of Ireland,1.0,0.0,FIFA World Cup qualification,Lisbon,Portugal,False
+2025-10-11,Norway,Israel,5.0,0.0,FIFA World Cup qualification,Oslo,Norway,False
+2025-10-11,Estonia,Italy,1.0,3.0,FIFA World Cup qualification,Tallinn,Estonia,False
+2025-10-11,Latvia,Andorra,2.0,2.0,FIFA World Cup qualification,Riga,Latvia,False
+2025-10-11,Serbia,Albania,0.0,1.0,FIFA World Cup qualification,Leskovac,Serbia,False
+2025-10-12,Burkina Faso,Ethiopia,3.0,1.0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2025-10-12,Djibouti,Sierra Leone,1.0,2.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-10-12,Egypt,Guinea-Bissau,1.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False
+2025-10-12,Zambia,Niger,0.0,1.0,FIFA World Cup qualification,Ndola,Zambia,False
+2025-10-12,Chad,Central African Republic,2.0,3.0,FIFA World Cup qualification,N'Djamena,Chad,False
+2025-10-12,Ghana,Comoros,1.0,0.0,FIFA World Cup qualification,Accra,Ghana,False
+2025-10-12,Mali,Madagascar,4.0,1.0,FIFA World Cup qualification,Bamako,Mali,False
+2025-10-12,Scotland,Belarus,2.0,1.0,FIFA World Cup qualification,Glasgow,Scotland,False
+2025-10-12,Denmark,Greece,3.0,1.0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2025-10-12,Netherlands,Finland,4.0,0.0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2025-10-12,Lithuania,Poland,0.0,2.0,FIFA World Cup qualification,Kaunas,Lithuania,False
+2025-10-12,San Marino,Cyprus,0.0,4.0,FIFA World Cup qualification,Serravalle,San Marino,False
+2025-10-12,Romania,Austria,1.0,0.0,FIFA World Cup qualification,Bucharest,Romania,False
+2025-10-12,Faroe Islands,Czech Republic,2.0,1.0,FIFA World Cup qualification,Tórshavn,Faroe Islands,False
+2025-10-12,Croatia,Gibraltar,3.0,0.0,FIFA World Cup qualification,Varaždin,Croatia,False
+2025-10-13,South Sudan,Togo,0.0,0.0,FIFA World Cup qualification,Juba,South Sudan,False
+2025-10-13,Lesotho,Zimbabwe,1.0,0.0,FIFA World Cup qualification,Polokwane,South Africa,True
+2025-10-13,Cape Verde,Eswatini,3.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False
+2025-10-13,Cameroon,Angola,0.0,0.0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2025-10-13,Mauritius,Libya,0.0,0.0,FIFA World Cup qualification,Saint Pierre,Mauritius,False
+2025-10-13,Equatorial Guinea,Liberia,1.0,1.0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2025-10-13,São Tomé and Príncipe,Malawi,1.0,0.0,FIFA World Cup qualification,Sousse,Tunisia,True
+2025-10-13,Tunisia,Namibia,3.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False
+2025-10-13,Northern Ireland,Germany,0.0,1.0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2025-10-13,Slovakia,Luxembourg,2.0,0.0,FIFA World Cup qualification,Trnava,Slovakia,False
+2025-10-13,Slovenia,Switzerland,0.0,0.0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2025-10-13,Sweden,Kosovo,0.0,1.0,FIFA World Cup qualification,Gothenburg,Sweden,False
+2025-10-13,Iceland,France,2.0,2.0,FIFA World Cup qualification,Reykjavík,Iceland,False
+2025-10-13,Ukraine,Azerbaijan,2.0,1.0,FIFA World Cup qualification,Kraków,Poland,True
+2025-10-13,Wales,Belgium,2.0,4.0,FIFA World Cup qualification,Cardiff,Wales,False
+2025-10-13,North Macedonia,Kazakhstan,1.0,1.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2025-10-13,Honduras,Haiti,3.0,0.0,FIFA World Cup qualification,Tegucigalpa,Honduras,False
+2025-10-13,Costa Rica,Nicaragua,4.0,1.0,FIFA World Cup qualification,San José,Costa Rica,False
+2025-10-14,Qatar,United Arab Emirates,2.0,1.0,FIFA World Cup qualification,Al Rayyan,Qatar,False
+2025-10-14,Saudi Arabia,Iraq,0.0,0.0,FIFA World Cup qualification,Jeddah,Saudi Arabia,False
+2025-10-14,Senegal,Mauritania,4.0,0.0,FIFA World Cup qualification,Diamniadio,Senegal,False
+2025-10-14,DR Congo,Sudan,1.0,0.0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2025-10-14,Nigeria,Benin,4.0,0.0,FIFA World Cup qualification,Uyo,Nigeria,False
+2025-10-14,South Africa,Rwanda,3.0,0.0,FIFA World Cup qualification,Mbombela,South Africa,False
+2025-10-14,Morocco,Congo,1.0,0.0,FIFA World Cup qualification,Rabat,Morocco,False
+2025-10-14,Seychelles,Gambia,0.0,7.0,FIFA World Cup qualification,Saint Pierre,Mauritius,True
+2025-10-14,Ivory Coast,Kenya,3.0,0.0,FIFA World Cup qualification,Ebimpé,Ivory Coast,False
+2025-10-14,Gabon,Burundi,2.0,0.0,FIFA World Cup qualification,Franceville,Gabon,False
+2025-10-14,Algeria,Uganda,2.0,1.0,FIFA World Cup qualification,Tizi Ouzou,Algeria,False
+2025-10-14,Guinea,Botswana,2.0,2.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2025-10-14,Somalia,Mozambique,0.0,1.0,FIFA World Cup qualification,Bir El Djir,Algeria,True
+2025-10-14,Spain,Bulgaria,4.0,0.0,FIFA World Cup qualification,Valladolid,Spain,False
+2025-10-14,Turkey,Georgia,4.0,1.0,FIFA World Cup qualification,Izmit,Turkey,False
+2025-10-14,Portugal,Hungary,2.0,2.0,FIFA World Cup qualification,Lisbon,Portugal,False
+2025-10-14,Republic of Ireland,Armenia,1.0,0.0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2025-10-14,Estonia,Moldova,1.0,1.0,FIFA World Cup qualification,Tallinn,Estonia,False
+2025-10-14,Italy,Israel,3.0,0.0,FIFA World Cup qualification,Udine,Italy,False
+2025-10-14,Andorra,Serbia,1.0,3.0,FIFA World Cup qualification,Encamp,Andorra,False
+2025-10-14,Latvia,England,0.0,5.0,FIFA World Cup qualification,Riga,Latvia,False
+2025-10-14,Panama,Suriname,1.0,1.0,FIFA World Cup qualification,Panama City,Panama,False
+2025-10-14,El Salvador,Guatemala,0.0,1.0,FIFA World Cup qualification,San Salvador,El Salvador,False
+2025-10-14,Curaçao,Trinidad and Tobago,1.0,1.0,FIFA World Cup qualification,Willemstad,Curaçao,False
+2025-10-14,Jamaica,Bermuda,4.0,0.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2025-11-13,United Arab Emirates,Iraq,1.0,1.0,FIFA World Cup qualification,Abu Dhabi,United Arab Emirates,False
+2025-11-13,Cameroon,DR Congo,0.0,1.0,FIFA World Cup qualification,Rabat,Morocco,True
+2025-11-13,Nigeria,Gabon,4.0,1.0,FIFA World Cup qualification,Rabat,Morocco,True
+2025-11-13,France,Ukraine,4.0,0.0,FIFA World Cup qualification,Paris,France,False
+2025-11-13,Azerbaijan,Iceland,0.0,2.0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2025-11-13,Republic of Ireland,Portugal,2.0,0.0,FIFA World Cup qualification,Dublin,Republic of Ireland,False
+2025-11-13,Armenia,Hungary,0.0,1.0,FIFA World Cup qualification,Yerevan,Armenia,False
+2025-11-13,Norway,Estonia,4.0,1.0,FIFA World Cup qualification,Oslo,Norway,False
+2025-11-13,Moldova,Italy,0.0,2.0,FIFA World Cup qualification,Chișinău,Moldova,False
+2025-11-13,England,Serbia,2.0,0.0,FIFA World Cup qualification,London,England,False
+2025-11-13,Andorra,Albania,0.0,1.0,FIFA World Cup qualification,Encamp,Andorra,False
+2025-11-13,Suriname,El Salvador,4.0,0.0,FIFA World Cup qualification,Paramaribo,Suriname,False
+2025-11-13,Guatemala,Panama,2.0,3.0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2025-11-13,Bermuda,Curaçao,0.0,7.0,FIFA World Cup qualification,Devonshire Parish,Bermuda,False
+2025-11-13,Trinidad and Tobago,Jamaica,1.0,1.0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2025-11-13,Haiti,Costa Rica,1.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,True
+2025-11-13,Nicaragua,Honduras,2.0,0.0,FIFA World Cup qualification,Managua,Nicaragua,False
+2025-11-14,Luxembourg,Germany,0.0,2.0,FIFA World Cup qualification,Luxembourg,Luxembourg,False
+2025-11-14,Slovakia,Northern Ireland,1.0,0.0,FIFA World Cup qualification,Košice,Slovakia,False
+2025-11-14,Finland,Malta,0.0,1.0,FIFA World Cup qualification,Helsinki,Finland,False
+2025-11-14,Poland,Netherlands,1.0,1.0,FIFA World Cup qualification,Warsaw,Poland,False
+2025-11-14,Croatia,Faroe Islands,3.0,1.0,FIFA World Cup qualification,Rijeka,Croatia,False
+2025-11-14,Gibraltar,Montenegro,1.0,2.0,FIFA World Cup qualification,Gibraltar,Gibraltar,False
+2025-11-15,Slovenia,Kosovo,0.0,2.0,FIFA World Cup qualification,Ljubljana,Slovenia,False
+2025-11-15,Switzerland,Sweden,4.0,1.0,FIFA World Cup qualification,Geneva,Switzerland,False
+2025-11-15,Denmark,Belarus,2.0,2.0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2025-11-15,Greece,Scotland,3.0,2.0,FIFA World Cup qualification,Piraeus,Greece,False
+2025-11-15,Turkey,Bulgaria,2.0,0.0,FIFA World Cup qualification,Bursa,Turkey,False
+2025-11-15,Georgia,Spain,0.0,4.0,FIFA World Cup qualification,Tbilisi,Georgia,False
+2025-11-15,Cyprus,Austria,0.0,2.0,FIFA World Cup qualification,Limassol,Cyprus,False
+2025-11-15,Bosnia and Herzegovina,Romania,3.0,1.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2025-11-15,Liechtenstein,Wales,0.0,1.0,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2025-11-15,Kazakhstan,Belgium,1.0,1.0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2025-11-16,Nigeria,DR Congo,1.0,1.0,FIFA World Cup qualification,Rabat,Morocco,True
+2025-11-16,Ukraine,Iceland,2.0,0.0,FIFA World Cup qualification,Warsaw,Poland,True
+2025-11-16,Azerbaijan,France,1.0,3.0,FIFA World Cup qualification,Baku,Azerbaijan,False
+2025-11-16,Portugal,Armenia,9.0,1.0,FIFA World Cup qualification,Porto,Portugal,False
+2025-11-16,Hungary,Republic of Ireland,2.0,3.0,FIFA World Cup qualification,Budapest,Hungary,False
+2025-11-16,Moldova,Israel,1.0,4.0,FIFA World Cup qualification,Chișinău,Moldova,False
+2025-11-16,Italy,Norway,1.0,4.0,FIFA World Cup qualification,Milan,Italy,False
+2025-11-16,Albania,England,0.0,2.0,FIFA World Cup qualification,Tirana,Albania,False
+2025-11-16,Serbia,Latvia,2.0,1.0,FIFA World Cup qualification,Leskovac,Serbia,False
+2025-11-17,Northern Ireland,Luxembourg,1.0,0.0,FIFA World Cup qualification,Belfast,Northern Ireland,False
+2025-11-17,Germany,Slovakia,6.0,0.0,FIFA World Cup qualification,Leipzig,Germany,False
+2025-11-17,Malta,Poland,2.0,3.0,FIFA World Cup qualification,Ta' Qali,Malta,False
+2025-11-17,Netherlands,Lithuania,4.0,0.0,FIFA World Cup qualification,Amsterdam,Netherlands,False
+2025-11-17,Czech Republic,Gibraltar,6.0,0.0,FIFA World Cup qualification,Olomouc,Czech Republic,False
+2025-11-17,Montenegro,Croatia,2.0,3.0,FIFA World Cup qualification,Podgorica,Montenegro,False
+2025-11-18,Iraq,United Arab Emirates,2.0,1.0,FIFA World Cup qualification,Basra,Iraq,False
+2025-11-18,Kosovo,Switzerland,1.0,1.0,FIFA World Cup qualification,Pristina,Kosovo,False
+2025-11-18,Sweden,Slovenia,1.0,1.0,FIFA World Cup qualification,Solna,Sweden,False
+2025-11-18,Scotland,Denmark,4.0,2.0,FIFA World Cup qualification,Glasgow,Scotland,False
+2025-11-18,Belarus,Greece,0.0,0.0,FIFA World Cup qualification,Zalaegerszeg,Hungary,True
+2025-11-18,Spain,Turkey,2.0,2.0,FIFA World Cup qualification,Seville,Spain,False
+2025-11-18,Bulgaria,Georgia,2.0,1.0,FIFA World Cup qualification,Sofia,Bulgaria,False
+2025-11-18,Austria,Bosnia and Herzegovina,1.0,1.0,FIFA World Cup qualification,Vienna,Austria,False
+2025-11-18,Romania,San Marino,7.0,1.0,FIFA World Cup qualification,Ploiești,Romania,False
+2025-11-18,Wales,North Macedonia,7.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False
+2025-11-18,Belgium,Liechtenstein,7.0,0.0,FIFA World Cup qualification,Liège,Belgium,False
+2025-11-18,Guatemala,Suriname,3.0,1.0,FIFA World Cup qualification,Guatemala City,Guatemala,False
+2025-11-18,Panama,El Salvador,3.0,0.0,FIFA World Cup qualification,Panama City,Panama,False
+2025-11-18,Jamaica,Curaçao,0.0,0.0,FIFA World Cup qualification,Kingston,Jamaica,False
+2025-11-18,Trinidad and Tobago,Bermuda,2.0,2.0,FIFA World Cup qualification,Port of Spain,Trinidad and Tobago,False
+2025-11-18,Costa Rica,Honduras,0.0,0.0,FIFA World Cup qualification,San José,Costa Rica,False
+2025-11-18,Haiti,Nicaragua,2.0,0.0,FIFA World Cup qualification,Willemstad,Curaçao,True
+2026-03-26,New Caledonia,Jamaica,0.0,1.0,FIFA World Cup qualification,Zapopan,Mexico,True
+2026-03-26,Bolivia,Suriname,2.0,1.0,FIFA World Cup qualification,Guadalupe,Mexico,True
+2026-03-26,Italy,Northern Ireland,2.0,0.0,FIFA World Cup qualification,Bergamo,Italy,False
+2026-03-26,Wales,Bosnia and Herzegovina,1.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False
+2026-03-26,Poland,Albania,2.0,1.0,FIFA World Cup qualification,Warsaw,Poland,False
+2026-03-26,Ukraine,Sweden,1.0,3.0,FIFA World Cup qualification,Valencia,Spain,True
+2026-03-26,Slovakia,Kosovo,3.0,4.0,FIFA World Cup qualification,Bratislava,Slovakia,False
+2026-03-26,Turkey,Romania,1.0,0.0,FIFA World Cup qualification,Istanbul,Turkey,False
+2026-03-26,Czech Republic,Republic of Ireland,2.0,2.0,FIFA World Cup qualification,Prague,Czech Republic,False
+2026-03-26,Denmark,North Macedonia,4.0,0.0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2026-03-31,DR Congo,Jamaica,1.0,0.0,FIFA World Cup qualification,Zapopan,Mexico,True
+2026-03-31,Iraq,Bolivia,2.0,1.0,FIFA World Cup qualification,Guadalupe,Mexico,True
+2026-03-31,Bosnia and Herzegovina,Italy,1.0,1.0,FIFA World Cup qualification,Zenica,Bosnia and Herzegovina,False
+2026-03-31,Sweden,Poland,3.0,2.0,FIFA World Cup qualification,Solna,Sweden,False
+2026-03-31,Kosovo,Turkey,0.0,1.0,FIFA World Cup qualification,Pristina,Kosovo,False
+2026-03-31,Czech Republic,Denmark,2.0,2.0,FIFA World Cup qualification,Prague,Czech Republic,False

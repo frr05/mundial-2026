@@ -1,111 +1,63 @@
-# 🏆 Proyecto: Modelo Elo para el Mundial 2026
+# simulador del mundial 2026 Can Usa Mex
 
-## 📌 Descripción general
+Proyecto de simulación y análisis basado en ratings Elo aplicado a selecciones nacionales, orientado a modelar el Mundial 2026. Incluye simulaciones end-to-end (fase de grupos + eliminación directa), actualización dinámica de Elo por partido, y análisis Monte Carlo para estimar probabilidades de avance por fase.
 
-Este proyecto implementa un sistema de **ratings Elo aplicado al fútbol internacional**, con el objetivo de analizar y predecir el rendimiento de selecciones nacionales en el contexto del Mundial 2026.
+### Objetivo
 
-El sistema se basa en resultados históricos de partidos internacionales y genera rankings dinámicos que se actualizan partido a partido, incluyendo variantes para distintos contextos (campeonato regular vs. definiciones por penales).
+Mi objetivo con este proyecto es aprender sobre modelado Elo, simulaciones de partidos (Poisson), y análisis estadístico aplicado a fútbol.
 
----
+### Formato del torneo
 
-## ⚙️ Objetivos del proyecto
+- 12 grupos de 4 equipos cada uno.
+- Avanzan los dos primeros de cada grupo más los 8 mejores terceros.
+- Eliminación directa desde Dieciseisavos a Final siguiendo el fixture oficial (Partidos 73-104).
+- Total de partidos simulados en el torneo: 104.
 
-* Construir un sistema de ratings tipo Elo adaptado a fútbol internacional.
-* Evaluar el rendimiento relativo de selecciones nacionales.
-* Generar rankings comparables entre equipos.
-* Modelar escenarios de partidos y posibles resultados.
-* Analizar el impacto de los penales en el rating (versión shootout).
+### Características Principales
+- **Modelo de goles**: utiliza distribuciones de Poisson para simular marcadores en 90 minutos y tiempo extra (lambda escalado).
+- **Elo dinámico**: actualización de ratings partido a partido con K-factor configurable; penales cuentan como victoria para efectos de Elo.
+- **Fase de grupos**: simulación completa de todos los encuentros, tablas por grupo y selección de los 8 mejores terceros.
+- **Emparejamiento de terceros**: algoritmo recursivo de backtracking que asigna los mejores terceros a los emparejamientos de Dieciseisavos respetando reglas FIFA.
+- **Eliminatoria**: simulación de Dieciseisavos a Final (Partidos 73-104), incluye prórroga y tanda de penales (75% prob. base por penal).
+- **Monte Carlo**: ejecuciones múltiples (por defecto 1,000) para estimar probabilidades de alcanzar cada fase y probabilidad de campeón.
 
----
+### Archivos Clave
+- **Notebook principal**: [simulacion_eliminacion_directa.ipynb](simulacion_eliminacion_directa.ipynb)
+- **Ratings de entrada**: [output/fifa_elo.csv](output/fifa_elo.csv)
+- **Salidas principales**:
+  - [output/tournament_probabilities.csv](output/tournament_probabilities.csv)
+  - [output/group_stage_statistics.csv](output/group_stage_statistics.csv)
+  - [output/elo_history.csv](output/elo_history.csv)
 
-## 📊 Componentes principales
+### Uso Rápido
+- **Abrir el notebook**: `jupyter notebook simulacion_eliminacion_directa.ipynb` y ejecutar las celdas en orden.
+- **Ejecutar la simulación en batch**: editar el parámetro `n_sims` en la celda de Monte Carlo y ejecutar para guardar `output/tournament_probabilities.csv`.
 
-### 1. Dataset de partidos
+### Requisitos
+- **Python 3.10+** (recomendado).
+- Paquetes principales: `pandas`, `numpy`, `scipy`, `plotly`.
 
-* Base de datos con resultados históricos de selecciones.
-* Incluye goles, fechas, equipos locales/visitantes y contexto del partido.
+### Salida y resultados
+- El flujo de trabajo genera:
+  - Probabilidades por equipo para cada fase del torneo (CSV).
+  - Estadísticas agregadas de fase de grupos (CSV).
+  - Visualizaciones interactivas (Plotly) desde el notebook.
 
-### 2. Modelo Elo
+### Notas importantes
+- Los resultados son estocásticos; para reproducibilidad ajustar la semilla con `np.random.seed()` en el notebook.
+- El modelo contiene supuestos heurísticos (p. ej. fórmulas lambda, K-factors, p_success en penales) que pueden ajustarse según preferencia.
 
-* Implementación de sistema Elo clásico adaptado a fútbol.
-* Actualización de ratings tras cada partido.
-* Ajustes por tipo de partido (amistoso, torneo, eliminación directa).
+### Siguientes pasos sugeridos
+- Crear un script CLI para ejecutar simulaciones sin abrir Jupyter.
+- Validar y extender el modelo de lambda (ajuste por confederación o forma reciente).
 
-### 3. Variantes del modelo
+### Elementos a mejorar el modelo
 
-* **Elo Campeonato**: basado en resultados estándar.
-* **Elo Shootout**: incorpora definición por penales.
-* **Elo Combinado**: mezcla ponderada de ambos escenarios.
-
-### 4. Exportación de resultados
-
-Se generan archivos CSV con los resultados finales:
-
-* `ratings_championship.csv` → Ratings del modelo de campeonato.
-* `ratings_shootout.csv` → Ratings considerando penales.
-* `ratings_combined.csv` → Modelo combinado.
-* `elo_history.csv` → Evolución histórica del rating.
-
----
-
-## 📁 Estructura del proyecto (propuesta)
-
-```
-📦 proyecto-elo-mundial
-├── data/
-│   └── matches.csv
-├── output/
-│   ├── ratings_championship.csv
-│   ├── ratings_shootout.csv
-│   ├── ratings_combined.csv
-│   └── elo_history.csv
-├── notebooks/
-│   └── analisis_elo.ipynb
-├── src/
-│   ├── elo_model.py
-│   ├── data_processing.py
-│   └── simulation.py
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 🧠 Lógica del modelo Elo
-
-El rating se actualiza según:
-
-* Resultado del partido (victoria, empate, derrota)
-* Diferencia de goles (opcional en variantes extendidas)
-* K-factor ajustable según importancia del partido
-
----
-
-## 🧪 Tecnologías usadas
-
-* Python 🐍
-* Pandas
-* NumPy
-* Jupyter Notebooks
-
----
-
-## 🚀 Posibles mejoras futuras
-
-* Integrar simulación completa del Mundial 2026
-* Añadir modelo probabilístico de goles (Poisson)
-* Ajustar ratings por confederación (UEFA, CONMEBOL, etc.)
-* Visualización interactiva de rankings
-* API para consultar ratings en tiempo real
-
----
-
-## 📌 Notas
-
-Este proyecto está en desarrollo activo y los resultados pueden variar a medida que se ajustan los parámetros del modelo y se incorporan nuevos datos históricos.
-
----
-
-## 👤 Autor
-
-Proyecto personal de análisis futbolístico basado en modelos Elo aplicados a selecciones nacionales.
+- Calibrar la función de lambda (esperanza de goles) con datos históricos y/o regresión, en lugar de fórmulas heurísticas.
+- Ajustar el K-factor por tipo de partido y/o importancia (amistoso, clasificatorio, eliminatoria).
+- Incluir ventaja de local y/o factor de confederación en la predicción de goles.
+- Incorporar forma reciente (últimos N partidos) y lesiones/sanciones en el peso del rating.
+- Refinar el modelo de penales (probabilidad por lanzador/portero) o usar modelos bayesianos para mayor realismo.
+- Añadir validación cruzada y métricas de calibración (Brier score, log-loss) para comparar variantes del modelo.
+- Paralelizar las simulaciones Monte Carlo y permitir ajuste de `n_sims` para balance precisión/tiempo.
+- Añadir tests unitarios y un conjunto de datos de validación para reproducibilidad.

@@ -1,63 +1,91 @@
-# simulador del mundial 2026 Can Usa Mex
+# Simulador del Mundial 2026 (Canadá · USA · México)
 
-Proyecto de simulación y análisis basado en ratings Elo aplicado a selecciones nacionales, orientado a modelar el Mundial 2026. Incluye simulaciones end-to-end (fase de grupos + eliminación directa), actualización dinámica de Elo por partido, y análisis Monte Carlo para estimar probabilidades de avance por fase.
+Modelo predictivo del Mundial 2026: ratings Elo + modelo de goles Dixon-Coles + simulación
+Monte Carlo del formato real de 48 equipos. El modelo está calibrado con datos históricos y
+re-entrenado con los **104 resultados reales del Mundial 2026** (campeón: España, 1-0 a Argentina).
+
+📄 **Reporte completo:** [`Output/REPORTE_MUNDIAL_2026.md`](Output/REPORTE_MUNDIAL_2026.md)
 
 ### Objetivo
 
-Mi objetivo con este proyecto es aprender sobre modelado Elo, simulaciones de partidos (Poisson), y análisis estadístico aplicado a fútbol.
+Aprender sobre modelado Elo, simulación de partidos (Poisson) y análisis estadístico aplicado a fútbol.
 
-### Formato del torneo
+## Uso rápido
 
-- 12 grupos de 4 equipos cada uno.
-- Avanzan los dos primeros de cada grupo más los 8 mejores terceros.
-- Eliminación directa desde Dieciseisavos a Final siguiendo el fixture oficial (Partidos 73-104).
-- Total de partidos simulados en el torneo: 104.
+```bash
+pip install -r requirements.txt
+python simulator.py todo                 # todo: probabilidades, backtest, ratings y reporte (~40 s)
+python simulator.py pre --sims 20000     # probabilidades pre-Mundial
+python simulator.py live --hasta R16     # simula el resto fijando los resultados reales hasta octavos
+python simulator.py backtest             # compara modelos contra los partidos reales
+python simulator.py ratings              # modelo final (incluye el Mundial 2026) y ranking
+python -m pytest                         # tests
+python journalist.py                     # reporte "periodista" + gráficos
+```
 
-### Características Principales
-- **Modelo de goles**: utiliza distribuciones de Poisson para simular marcadores en 90 minutos y tiempo extra (lambda escalado).
-- **Elo dinámico**: actualización de ratings partido a partido con K-factor configurable; penales cuentan como victoria para efectos de Elo.
-- **Fase de grupos**: simulación completa de todos los encuentros, tablas por grupo y selección de los 8 mejores terceros.
-- **Emparejamiento de terceros**: algoritmo recursivo de backtracking que asigna los mejores terceros a los emparejamientos de Dieciseisavos respetando reglas FIFA.
-- **Eliminatoria**: simulación de Dieciseisavos a Final (Partidos 73-104), incluye prórroga y tanda de penales (75% prob. base por penal).
-- **Monte Carlo**: ejecuciones múltiples (por defecto 1,000) para estimar probabilidades de alcanzar cada fase y probabilidad de campeón.
+Notebook principal: [`modelo_mundial_2026.ipynb`](modelo_mundial_2026.ipynb).
 
-### Archivos Clave
-- **Notebook principal**: [simulacion_eliminacion_directa.ipynb](simulacion_eliminacion_directa.ipynb)
-- **Ratings de entrada**: [output/fifa_elo.csv](output/fifa_elo.csv)
-- **Salidas principales**:
-  - [output/tournament_probabilities.csv](output/tournament_probabilities.csv)
-  - [output/group_stage_statistics.csv](output/group_stage_statistics.csv)
-  - [output/elo_history.csv](output/elo_history.csv)
+## Cómo funciona el modelo (`modelo/`)
 
-### Uso Rápido
-- **Abrir el notebook**: `jupyter notebook simulacion_eliminacion_directa.ipynb` y ejecutar las celdas en orden.
-- **Ejecutar la simulación en batch**: editar el parámetro `n_sims` en la celda de Monte Carlo y ejecutar para guardar `output/tournament_probabilities.csv`.
+| Módulo | Qué hace |
+|---|---|
+| `elo.py` | Elo estilo eloratings.net sobre toda la historia (1872 → hoy). K según torneo (Mundial 60, continentales 50, eliminatorias/Nations League 40, otros 30, amistosos 20), multiplicador por diferencia de gol y ventaja de local (100) solo si la cancha no es neutral. |
+| `goals.py` | Goles Dixon-Coles: `log λ = μ ± β·ΔElo/400 + local`, con corrección ρ para marcadores bajos. Parámetros por máxima verosimilitud (≈16.000 partidos desde 2010). Modelo de penales ajustado con las tandas históricas (casi una moneda al aire). |
+| `model.py` | Junta todo y agrega dos correcciones aprendidas de los Mundiales: **por confederación** (AFC ≈ −88 y CONCACAF ≈ −62 puntos Elo respecto de UEFA) y **nitidez en eliminatorias** (el favorito avanza más de lo que predice el modelo de 90'). `build_model(cutoff)` entrena solo con datos previos a `cutoff`. |
+| `tournament.py` | Monte Carlo del formato real: desempates FIFA (enfrentamiento directo primero), 8 mejores terceros con reglas de cruce FIFA, Partidos 73-104, prórroga, penales, ventaja de local solo para anfitriones en su país y Elo dinámico dentro de cada simulación. Puede fijar resultados ya jugados. |
+| `evaluate.py` | Backtest contra el Mundial 2026 y validación en los Mundiales 2006-2026 sin mirar el futuro. |
+| `report.py` | Genera el reporte en Markdown. |
 
-### Requisitos
-- **Python 3.10+** (recomendado).
-- Paquetes principales: `pandas`, `numpy`, `scipy`, `plotly`.
+## Errores corregidos del modelo anterior
 
-### Salida y resultados
-- El flujo de trabajo genera:
-  - Probabilidades por equipo para cada fase del torneo (CSV).
-  - Estadísticas agregadas de fase de grupos (CSV).
-  - Visualizaciones interactivas (Plotly) desde el notebook.
+- **Probabilidades > 100%** en `tournament_probabilities.csv` (p. ej. Francia 134% en dieciseisavos): la cuenta del Monte Carlo usaba los ganadores de la fase siguiente, contando dos veces a los eliminados. Corregido en el notebook y reemplazado por un conteo "alcanzó al menos la fase X".
+- **Slots de terceros que se pisaban** en la asignación de Dieciseisavos (detectado al reproducir el bracket real).
+- **Rutas `output/`** que no existen en Linux/macOS (la carpeta es `Output/`); `journalist.py` buscaba archivos que nadie generaba.
+- **`simulator.py`** tenía solo 31 equipos, un fixture distinto al oficial y otra fórmula de goles que los notebooks.
+- **Fórmula de goles heurística** (`λ = 1.35 + diff/200`) sobre el ranking FIFA: predecía 15.6% de empates (real: 28%). Ahora es un modelo calibrado.
+- **Elo sin contexto**: amistosos con K≈0, sin ventaja de local ni diferencia de gol, desempates de grupo sin enfrentamiento directo.
 
-### Notas importantes
-- Los resultados son estocásticos; para reproducibilidad ajustar la semilla con `np.random.seed()` en el notebook.
-- El modelo contiene supuestos heurísticos (p. ej. fórmulas lambda, K-factors, p_success en penales) que pueden ajustarse según preferencia.
+## Resultados del backtest (Mundial 2026, 104 partidos)
 
-### Siguientes pasos sugeridos
-- Crear un script CLI para ejecutar simulaciones sin abrir Jupyter.
-- Validar y extender el modelo de lambda (ajuste por confederación o forma reciente).
+| Modelo | Grupos log-loss ↓ | Grupos RPS ↓ | KO log-loss ↓ | KO acierto |
+|---|---|---|---|---|
+| Original (ranking FIFA + λ heurístico) | 1.012 | 0.176 | 0.418 | 75% |
+| **Nuevo (pre-Mundial)** | **0.887** | **0.158** | **0.401** | 78% |
 
-### Elementos a mejorar el modelo
+Antes del torneo el modelo nuevo tenía a **España como favorita (~28%)**, seguida de Argentina (~23%):
+los dos finalistas reales.
 
-- Calibrar la función de lambda (esperanza de goles) con datos históricos y/o regresión, en lugar de fórmulas heurísticas.
-- Ajustar el K-factor por tipo de partido y/o importancia (amistoso, clasificatorio, eliminatoria).
-- Incluir ventaja de local y/o factor de confederación en la predicción de goles.
-- Incorporar forma reciente (últimos N partidos) y lesiones/sanciones en el peso del rating.
-- Refinar el modelo de penales (probabilidad por lanzador/portero) o usar modelos bayesianos para mayor realismo.
-- Añadir validación cruzada y métricas de calibración (Brier score, log-loss) para comparar variantes del modelo.
-- Paralelizar las simulaciones Monte Carlo y permitir ajuste de `n_sims` para balance precisión/tiempo.
-- Añadir tests unitarios y un conjunto de datos de validación para reproducibilidad.
+## Qué se aprendió del Mundial 2026
+
+Cada cambio se validó en los Mundiales 2006-2026 entrenando solo con datos anteriores a cada uno:
+
+- ✅ **Corrección por confederación**: AFC y CONCACAF vuelven a rendir bajo su Elo (y UEFA sobre él). Mejora 4 de 6 Mundiales.
+- ✅ **Nitidez en eliminatorias**: en 2026 el favorito avanzó 84% de las veces vs ~68% predicho (1986-2026: 73% vs 65%). Ajustado con 1986-2022, mejora 2026 fuera de muestra (KO log-loss 0.452 → 0.401).
+- ❌ **Capa "más goles / más empates en Mundial"**: aunque 2026 tuvo ≈3 goles y 28% de empates por partido, ajustarla empeora en todos los Mundiales probados → sobreajuste, descartada.
+
+## Archivos de salida (`Output/`)
+
+| Archivo | Contenido |
+|---|---|
+| `REPORTE_MUNDIAL_2026.md` | Reporte completo |
+| `tournament_probabilities.csv` | Probabilidades pre-Mundial por fase y posición en el grupo |
+| `backtest_mundial2026_*.csv` | Probabilidades por partido, resumen y mayores sorpresas |
+| `backtest_mundiales_historicos.csv` | Validación por Mundial y variante del modelo |
+| `evolucion_probabilidad_campeon.csv` | Probabilidad de campeón tras cada fase |
+| `ratings_actuales.csv`, `ratings_pre_mundial.csv`, `cambio_ratings_mundial2026.csv` | Ratings |
+| `model_config.json` | Parámetros del modelo final |
+| `elo_history.csv` | Historial Elo desde 2018 (date, team, rating) |
+
+## Datos
+
+`Data/results.csv`, `shootouts.csv` y `goalscorers.csv` provienen del dataset
+[martj42/international_results](https://github.com/martj42/international_results), actualizado
+hasta agosto de 2026 (incluye todos los partidos del Mundial).
+
+## Limitaciones
+
+- La tabla oficial de cruces de terceros (Anexo C, 495 combinaciones) no está completa en el
+  código: se usa la combinación real de 2026 y, para las demás, una asignación válida según las
+  reglas FIFA por backtracking (puede diferir de la oficial en algunos cruces).
+- El modelo no conoce lesiones, convocatorias ni el estado de forma más allá de lo que refleja el Elo.
+- Los resultados son estocásticos; usar `--seed` para reproducibilidad.

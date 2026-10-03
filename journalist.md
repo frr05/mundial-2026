@@ -22,9 +22,9 @@ Muestra los equipos en ascenso y descenso.
 Compara dos equipos.
 
 ## Datos que analiza
-- `output/elo_history.csv` - Evolución histórica de ratings
-- `output/simulation_championship_probs.csv` - Probabilidades de campeón
-- `output/simulation_group_results.csv` - Resultados de grupos
+- `Output/elo_history.csv` - Evolución histórica de ratings
+- `Output/tournament_probabilities.csv` - Probabilidades de campeón
+- `Output/tournament_probabilities.csv` - Resultados de grupos
 
 ## Funciones
 
@@ -70,6 +70,6 @@ Portugal: -22.1
 ```
 
 ## Archivos que genera
-- `output/journalist_report.txt` - Reporte de texto
-- `output/journalist_evolution.png` - Gráfico de evolución
-- `output/journalist_champions.png` - Gráfico de probabilidades
+- `Output/journalist_report.txt` - Reporte de texto
+- `Output/journalist_evolution.png` - Gráfico de evolución
+- `Output/journalist_champions.png` - Gráfico de probabilidades

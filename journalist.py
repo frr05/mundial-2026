@@ -3,8 +3,16 @@ Agente Periodista - Analiza simulaciones y genera insights
 """
 import pandas as pd
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from datetime import datetime
+
+from modelo.config import OUTPUT_DIR
+from modelo.data import WC2026_GROUPS
+
+OUT = str(OUTPUT_DIR)
+WC_TEAMS = [t for ts in WC2026_GROUPS.values() for t in ts]
 
 
 class JournalistAgent:
@@ -13,17 +21,15 @@ class JournalistAgent:
 
     def load_data(self):
         """Carga todos los datos disponibles"""
-        self.elo_history = pd.read_csv('output/elo_history.csv')
+        # Generados por `python simulator.py todo`
+        self.elo_history = pd.read_csv(f'{OUT}/elo_history.csv')
         self.elo_history['date'] = pd.to_datetime(self.elo_history['date'])
-
+        self.champion_probs = None
+        self.group_results = None
         try:
-            self.champion_probs = pd.read_csv('output/simulation_champion_probs.csv')
-        except:
-            pass
-
-        try:
-            self.group_results = pd.read_csv('output/simulation_group_results.csv')
-        except:
+            self.champion_probs = pd.read_csv(f'{OUT}/tournament_probabilities.csv')
+            self.group_results = self.champion_probs
+        except FileNotFoundError:
             pass
 
     def analyze_team_evolution(self, team):
@@ -65,13 +71,9 @@ class JournalistAgent:
         for i, row in top.iterrows():
             insights.append(f"{row['team']}: {row['rating']:.1f}")
 
-        # Equipos en ascenso
-        first_last = latest.copy()
-        first_last = first_last[first_last['rating'] > 1500]  #过滤
-
-        # Calcular cambio
+        # Equipos en ascenso / descenso (mundialistas)
         trends = []
-        for team in latest['team'].unique()[:30]:
+        for team in WC_TEAMS:
             team_data = self.elo_history[self.elo_history['team'] == team].sort_values('date')
             if len(team_data) > 10:
                 start = team_data['rating'].iloc[:5].mean()
@@ -94,7 +96,7 @@ class JournalistAgent:
 
         return "\n".join(insights)
 
-    def plot_team_evolution(self, teams, save_path='output/journalist_evolution.png'):
+    def plot_team_evolution(self, teams, save_path=f'{OUT}/journalist_evolution.png'):
         """Grafica evolución de varios equipos"""
         plt.figure(figsize=(14, 6))
 
@@ -114,13 +116,13 @@ class JournalistAgent:
         plt.close()
         print(f"Gráfico guardado: {save_path}")
 
-    def plot_champion_probs(self, save_path='output/journalist_champions.png'):
+    def plot_champion_probs(self, save_path=f'{OUT}/journalist_champions.png'):
         """Grafica probabilidades de campeón"""
         try:
-            probs = pd.read_csv('output/simulation_championship_probs.csv')
+            probs = pd.read_csv(f'{OUT}/tournament_probabilities.csv')
             plt.figure(figsize=(12, 6))
-            plt.barh(probs.iloc[:10, 0], probs.iloc[:10, 1])
-            plt.xlabel('Probabilidad')
+            plt.barh(probs['team'].head(10), probs['Campeón %'].head(10))
+            plt.xlabel('Probabilidad de campeón (%)')
             plt.title('Top 10 Probabilidades de Campeón')
             plt.gca().invert_yaxis()
             plt.tight_layout()
@@ -134,9 +136,8 @@ class JournalistAgent:
         """Analiza rendimiento en un grupo"""
         try:
             grp = self.group_results[self.group_results['group'] == group].copy()
-            grp = grp.sort_values('position')
-            return grp
-        except:
+            return grp.sort_values('1ro_grupo_%', ascending=False)
+        except (TypeError, KeyError):
             return None
 
     def generate_report(self):
@@ -155,11 +156,11 @@ class JournalistAgent:
 
         # Guardar
         report_text = "\n".join(report)
-        with open('output/journalist_report.txt', 'w', encoding='utf-8') as f:
+        with open(f'{OUT}/journalist_report.txt', 'w', encoding='utf-8') as f:
             f.write(report_text)
 
         print(report_text)
-        print("\nReporte guardado: output/journalist_report.txt")
+        print(f"\nReporte guardado: {OUT}/journalist_report.txt")
 
         # Gráficos
         self.plot_team_evolution(['Argentina', 'Brazil', 'France', 'Germany', 'Spain', 'England'])
